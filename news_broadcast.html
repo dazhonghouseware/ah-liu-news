@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <title>新加坡全媒体深度新闻播报 — 大龙一号</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700;900&display=swap');
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Noto Sans SC', sans-serif;
+            background: #050510;
+            color: white;
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Header */
+        .topbar {
+            background: linear-gradient(90deg, #c0392b, #8e0000);
+            padding: 15px 40px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-shrink: 0;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+            z-index: 10;
+        }
+
+        .topbar .logo {
+            font-size: 26px;
+            font-weight: 900;
+            letter-spacing: 1px;
+        }
+
+        .topbar .id-badge {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 5px 15px;
+            border-radius: 6px;
+            font-weight: 700;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            font-size: 18px;
+            color: #ffd700;
+        }
+
+        /* Progress Indicators */
+        .progress-wrap {
+            background: rgba(0, 0, 0, 0.4);
+            padding: 12px;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+        }
+
+        .dot {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: #333;
+            transition: 0.4s;
+            border: 2px solid transparent;
+        }
+
+        .dot.active {
+            background: #e74c3c;
+            transform: scale(1.3);
+            border-color: #fff;
+            box-shadow: 0 0 15px #e74c3c;
+        }
+
+        .dot.done {
+            background: #666;
+        }
+
+        /* Main Viewport */
+        .viewport {
+            flex: 1;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px 40px;
+            background: radial-gradient(circle at center, #1a1a3a 0%, #050510 100%);
+        }
+
+        .slide {
+            display: none;
+            width: 100%;
+            max-width: 1100px;
+            height: 80%;
+            flex-direction: column;
+        }
+
+        .slide.active {
+            display: flex;
+            animation: slideIn 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* News Card */
+        .card {
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 28px;
+            padding: 30px 45px;
+            height: 95%;
+            display: flex;
+            flex-direction: column;
+            backdrop-filter: blur(15px);
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.5);
+        }
+
+        .tag {
+            color: #e74c3c;
+            font-weight: 900;
+            font-size: 18px;
+            margin-bottom: 15px;
+            letter-spacing: 2px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .tag::after {
+            content: "";
+            flex: 1;
+            height: 1px;
+            background: rgba(231, 76, 60, 0.3);
+        }
+
+        .headline {
+            font-size: 32px;
+            font-weight: 900;
+            line-height: 1.3;
+            margin-bottom: 20px;
+            color: #fff;
+            text-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
+        }
+
+        /* Expanded Text Area */
+        .story-body {
+            flex: 1;
+            font-size: 24px;
+            line-height: 1.7;
+            color: #eee;
+            overflow-y: auto;
+            padding-right: 25px;
+            scroll-behavior: smooth;
+        }
+
+        .story-body::-webkit-scrollbar {
+            width: 10px;
+        }
+
+        .story-body::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.03);
+        }
+
+        .story-body::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.15);
+            border-radius: 5px;
+        }
+
+        .story-body strong {
+            color: #f1c40f;
+            font-weight: 700;
+        }
+
+        .story-body p {
+            margin-bottom: 25px;
+        }
+
+        /* Intro/Outro Slide */
+        .slide-special {
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .big-title {
+            font-size: 85px;
+            font-weight: 900;
+            background: linear-gradient(135deg, #fff 0%, #aaa 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .sub-title {
+            font-size: 70px;
+            font-weight: 900;
+            background: linear-gradient(135deg, #e74c3c, #f1c40f);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 30px;
+        }
+
+        .meta-info {
+            font-size: 26px;
+            color: #888;
+        }
+
+        /* Bottom Controls */
+        .footer {
+            background: #000;
+            padding: 25px 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 30px;
+            flex-shrink: 0;
+            box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.5);
+        }
+
+        .btn-nav {
+            background: #1a1a1a;
+            color: #888;
+            border: 1px solid #333;
+            padding: 12px 30px;
+            border-radius: 10px;
+            font-size: 20px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .btn-nav:hover {
+            background: #252525;
+            color: #fff;
+            border-color: #555;
+        }
+
+        .btn-play {
+            background: #c0392b;
+            color: #fff;
+            padding: 18px 65px;
+            border-radius: 60px;
+            font-size: 26px;
+            font-weight: 900;
+            border: none;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            box-shadow: 0 0 20px rgba(192, 57, 43, 0.4);
+        }
+
+        .btn-play:hover {
+            background: #e74c3c;
+            transform: translateY(-2px);
+            box-shadow: 0 0 30px rgba(231, 76, 60, 0.6);
+        }
+
+        .status-msg {
+            width: 280px;
+            font-size: 19px;
+            color: #777;
+            font-style: italic;
+            text-align: center;
+        }
+
+        /* Ticker */
+        .ticker {
+            background: #8e0000;
+            padding: 10px 0;
+            overflow: hidden;
+            flex-shrink: 0;
+        }
+
+        .ticker-content {
+            display: inline-block;
+            white-space: nowrap;
+            animation: tickerScroll 45s linear infinite;
+            font-size: 20px;
+            font-weight: 700;
+            padding-left: 100vw;
+        }
+
+        @keyframes tickerScroll {
+            0% {
+                transform: translateX(0);
+            }
+
+            100% {
+                transform: translateX(-200%);
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="topbar">
+        <div class="logo">大龙一号 · 深度新闻直播间</div>
+        <div class="id-badge">【新加坡本地新闻主编】</div>
+    </div>
+
+    <div class="progress-wrap" id="dotsContainer"></div>
+
+    <div class="viewport" id="viewport">
+        <!-- Content dynamically built -->
+    </div>
+
+    <div class="ticker">
+        <div id="tickerText" class="ticker-content"></div>
+    </div>
+
+    <div class="footer">
+        <button class="btn-nav" id="pBtn" onclick="prev()">PREV (上一条)</button>
+        <button class="btn-play" id="playBtn" onclick="toggle()">
+            <span id="pIcon">▶</span> <span id="pText">开始深度播报</span>
+        </button>
+        <button class="btn-nav" id="nBtn" onclick="next()">NEXT (下一条)</button>
+        <div class="status-msg" id="status">准备就绪，点击开始</div>
+    </div>
+
+    <script>
+        const news = [{"t": "因袭击事件激增，新加坡国家公园局宣布将于3月重启全岛范围内的射杀乌鸦行动", "c": "<p>听众朋友们，最近走在路上有没有觉得头顶凉飕飕的？没错，那些‘黑衣霸主’乌鸦又要被‘制裁’了。因为最近乌鸦攻击人的投诉实在太多，国家公园局坐不住了，宣布下个月开始，也就是3月，全岛重启射杀行动。虽然听起来有点暴力，但很多被啄过的安哥安替都拍手叫好。当局也说了，光靠开枪是不够的，大家平时丢垃圾也要注意，不要乱喂鸟，断了它们的伙食，它们自然就少了。接下来几周，大家如果看到有告示牌写着正在作业，记得绕路走，安全第一啊！</p>"}, {"t": "外国男子称新加坡地铁太准时、小贩中心节奏太快，这种“高效文化”令其感到崩溃", "c": "<p>效率太高也有错？最近有个老外在网上‘开炮’，说新加坡的生活节奏快到让他受不了。他说MRT太准时了，让他感觉一直在被追着跑；去小贩中心买个菜头粿，要是点慢一点，感觉全世界都在等他，压力山大。哎呀，这位朋友，我们新加坡人这种‘怕输’和‘赶时间’的基因是刻在骨子里的。如果你在点餐时卡壳，那是真的会感受到那种无声的压力的。不过说实话，这种高效不正是我们引以为傲的地方吗？大家觉得，新加坡是不是真的该稍微Slow down一点呢？</p>"}, {"t": "男子在三巴旺Sun Plaza麦当劳连续抢夺多名顾客餐食，庭审揭露其古怪行径", "c": "<p>今天来讲一个‘汉堡神偷’的真人真事。在三巴旺的Sun Plaza麦当劳，有一个男子竟然直接在人家点好餐准备开动的时候，冲上去抢了汉堡就跑，还边跑边讲‘I want burger’。这可不是在拍戏啊，这是真的抢劫！现在这个案子已经上法庭了。虽然抢个汉堡看起来是小事，但在新加坡，这叫Snatch Theft，是要吃牢饭的。大家以后在外面吃McSpicy，除了要防辣，看来还得防着有人来抢啊！如果你遇到这种事，千万别硬碰硬，拍照报警最稳妥。</p>"}, {"t": "学生托管中心近期接连倒闭，教育工会指出深层结构性问题亟需解决", "c": "<p>家里有小孩的朋友们注意了，最近学生托管中心SCC倒闭的消息闹得沸沸扬扬。工会都出来喊话了，说这背后的问题很大，不只是经营不善，而是整个行业的租金、人手压力已经爆表了。这对双职工家庭来说简直是噩梦，中心一关，孩子放学去哪？现在剩下的托管中心名额都抢破头了。如果你家孩子现在有位子坐，真的要且行且珍惜。也希望有关部门赶紧出点力，不然以后大家真的不敢生小孩了，连个放孩子的地方都没有，怎么安心做工呢？</p>"}, {"t": "探索登加新镇（Tengah）集中制冷系统，从节省成本到日常维护的全方位解析", "c": "<p>住进未来的‘森林镇’登加是什么体验？大家最关心的肯定还是那个集中制冷系统。不用装外机，电费还能省30%，听起来是不是很爽？虽然之前有听说漏水啊、不冷啊之类的Complaints，但SP Group最近说已经搞定了。现在的系统不仅更稳定，还有App可以看用了多少电。最关键的是，你以后不用每三个月请人来打理冷气机了，省下一大笔Maintenance费。如果你准备买那里的房子，这几个Cool Facts一定要先搞清楚，别到时错过这个高科技福利哦！</p>"}, {"t": "传染病中心证实：一名搭乘新航客机的乘客确诊麻疹，目前排除本地关联", "c": "<p>飞洛杉矶回来的朋友要注意了！最近有一名新航乘客确诊了麻疹。虽然专家说这是境外输入的，目前还没有传给本地其他人，但大家还是不能掉以轻心。麻疹的传染力是很强的，如果你没打过疫苗，真的很容易中招。特别是最近如果你有出国打算，一定要查一下家里的疫苗记录。新航那边已经把飞机洗得干干净净了，大家不用太担心。总之，身体有不舒服，尤其是发烧出红疹，一定要立刻去看医生，别拖啊！</p>"}];
+
+        const introScript = "各位老板好！今天是2026-02-23，大龙一号为您播报6条本地要闻。";
+        const outroScript = "以上就是今天大龙一号新加坡深度新闻简报的全部内容。感谢您的细心收听与观看。我是主编大龙一号，在这祝您生活顺意，平安喜乐。我们明天再见。";
+
+        let cur = 0, isP = false, synthObj = window.speechSynthesis, u = null;
+
+        function init() {
+            const v = document.getElementById('viewport'), dots = document.getElementById('dotsContainer'), tick = document.getElementById('tickerText');
+            v.innerHTML = `<div class="slide slide-special active">
+      <div class="big-title">SINGAPORE</div>
+      <div class="sub-title">深度新闻简报</div>
+      <div class="meta-info">2026-02-23 ｜ 主编：大龙一号</div>
+    </div>` +
+                news.map((item, i) => `
+      <div class="slide">
+        <div class="card">
+          <div class="tag">DEEP FOCUS · 第 ${i + 1} 条</div>
+          <div class="headline">${item.t}</div>
+          <div class="story-body" id="sb-${i}">${item.c}</div>
+        </div>
+      </div>
+    `).join('') +
+                `<div class="slide slide-special">
+      <div class="sub-title">播报结束</div>
+      <div class="meta-info">2026-02-23 ｜ 主编：大龙一号</div>
+    </div>`;
+
+            dots.innerHTML = Array(news.length + 2).fill(0).map((_, i) => `<div class="dot ${i == 0 ? 'active' : ''}"></div>`).join('');
+            tick.innerText = "🚨 今日要闻概览：" + news.map(n => n.t).join(" ｜ ") + " ｜ 制作：新加坡本地新闻主编办公室";
+        }
+
+        function render(i) {
+            document.querySelectorAll('.slide').forEach((s, idx) => s.classList.toggle('active', i == idx));
+            document.querySelectorAll('.dot').forEach((d, idx) => {
+                d.classList.toggle('active', i == idx);
+                d.classList.toggle('done', idx < i);
+            });
+            cur = i;
+            const body = document.getElementById('sb-' + (i - 1));
+            if (body) body.scrollTop = 0;
+        }
+
+        function next() { if (cur < news.length + 1) render(cur + 1); }
+        function prev() { if (cur > 0) render(cur - 1); }
+
+        function toggle() {
+            if (isP) { synthObj.cancel(); isP = false; document.getElementById('pText').innerText = "继续播报"; document.getElementById('status').innerText = "已暂停播报"; return; }
+            isP = true; document.getElementById('pText').innerText = "暂停播报"; document.getElementById('status').innerText = "正在播报...";
+            playSeq(cur);
+        }
+
+        function playSeq(idx) {
+            if (!isP || idx > news.length + 1) {
+                if (idx > news.length + 1) { isP = false; document.getElementById('pText').innerText = "重新播报"; document.getElementById('status').innerText = "播报完毕"; cur = 0; }
+                return;
+            }
+            render(idx);
+            let text = "";
+            if (idx == 0) text = introScript;
+            else if (idx <= news.length) {
+                const item = news[idx - 1];
+                text = `第 ${idx} 条：${item.t}。${item.c.replace(/<[^>]+>/g, '')}`;
+            } else text = outroScript;
+
+            u = new SpeechSynthesisUtterance(text);
+            u.lang = 'zh-CN'; u.rate = 1.0;
+            const vs = synthObj.getVoices();
+            const zh = vs.find(v => v.lang.includes('zh-CN')) || vs.find(v => v.lang.includes('zh'));
+            if (zh) u.voice = zh;
+
+            u.onend = () => { if (isP) setTimeout(() => playSeq(idx + 1), 1000); };
+            synthObj.speak(u);
+        }
+
+        init();
+    </script>
+</body>
+
+</html>
