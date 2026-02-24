@@ -2,100 +2,258 @@
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>新加坡每日深度新闻简报 — 2026-02-24</title>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700;900&display=swap');
-    body { font-family: 'Noto Sans SC', sans-serif; font-size: 22px; line-height: 1.8; background: #f9f7f4; color: #1a1a1a; padding: 30px; }
-    .container { max-width: 1000px; margin: 0 auto; }
-    .header { background: linear-gradient(135deg, #8e0000, #c0392b); color: white; border-radius: 16px; padding: 40px; margin-bottom: 35px; text-align: center; box-shadow: 0 10px 30px rgba(142,0,0,0.2); }
-    .editor-id { font-size: 20px; color: #ffd700; font-weight: 700; margin-bottom: 10px; }
-    .news-item { background: white; border-radius: 20px; padding: 40px; margin-bottom: 30px; box-shadow: 0 8px 25px rgba(0,0,0,0.06); border-left: 10px solid #8e0000; }
-    .news-item h2 { font-size: 30px; font-weight: 900; margin-bottom: 20px; }
-    .link-btn { text-decoration: none; color: white; background: #8e0000; padding: 8px 20px; border-radius: 8px; font-size: 18px; font-weight: 700; }
-    .footer { text-align: center; color: #888; padding: 40px; font-size: 18px; border-top: 1px dashed #ddd; }
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@700;900&family=Outfit:wght@300;400;600&family=Noto+Sans+SC:wght@300;400;500;700&display=swap');
+    
+    :root {
+      --primary: #8e0000;
+      --accent: #ffd700;
+      --bg: #fdfcfb;
+      --text: #2c3e50;
+      --card-bg: #ffffff;
+    }
+
+    body { 
+      font-family: 'Noto Sans SC', sans-serif; 
+      font-size: 18px; 
+      line-height: 1.8; 
+      background: var(--bg); 
+      color: var(--text); 
+      padding: 20px;
+      margin: 0;
+    }
+
+    .container { max-width: 800px; margin: 0 auto; }
+
+    .header { 
+      background: linear-gradient(135deg, #1a1a1a, #4a0000); 
+      color: white; 
+      border-radius: 24px; 
+      padding: 60px 20px; 
+      margin-bottom: 40px; 
+      text-align: center; 
+      box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .header::after {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: radial-gradient(circle at top right, rgba(255,215,0,0.1), transparent);
+    }
+
+    .editor-id { 
+      font-size: 16px; 
+      color: var(--accent); 
+      font-weight: 700; 
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 15px;
+    }
+
+    .header h1 { 
+      font-family: 'Noto Serif SC', serif;
+      font-size: 42px; 
+      margin: 0;
+      font-weight: 900;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }
+
+    .meta { opacity: 0.8; font-size: 14px; margin-top: 10px; }
+
+    .news-item { 
+      background: var(--card-bg); 
+      border-radius: 24px; 
+      padding: 40px; 
+      margin-bottom: 40px; 
+      box-shadow: 0 10px 30px rgba(0,0,0,0.04); 
+      border: 1px solid rgba(0,0,0,0.03);
+      transition: transform 0.3s ease;
+    }
+    
+    .news-item:hover { transform: translateY(-5px); }
+
+    .news-tag {
+      display: inline-block;
+      background: rgba(142,0,0,0.05);
+      color: var(--primary);
+      font-size: 12px;
+      font-weight: 700;
+      padding: 4px 12px;
+      border-radius: 100px;
+      margin-bottom: 15px;
+    }
+
+    .news-item h2 { 
+      font-family: 'Noto Serif SC', serif;
+      font-size: 28px; 
+      font-weight: 900; 
+      margin-top: 0;
+      margin-bottom: 25px;
+      color: #1a1a1a;
+      line-height: 1.3;
+    }
+
+    .summary-box {
+      background: #fbfbfb;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 25px;
+      border-left: 4px solid var(--primary);
+      font-size: 17px;
+    }
+
+    .report-box {
+      font-size: 19px;
+      color: #445;
+      line-height: 2;
+      border-top: 1px dashed #eee;
+      padding-top: 25px;
+    }
+
+    .link-btn { 
+      display: inline-block;
+      text-decoration: none; 
+      color: white; 
+      background: #1a1a1a; 
+      padding: 12px 28px; 
+      border-radius: 100px; 
+      font-size: 15px; 
+      font-weight: 600;
+      transition: all 0.2s;
+    }
+    
+    .link-btn:hover { background: var(--primary); transform: scale(1.05); }
+
+    .action-area { margin-top: 30px; text-align: right; }
+
+    .footer { text-align: center; color: #999; padding: 60px 0; font-size: 14px; }
+
+    @media (max-width: 600px) {
+      .header h1 { font-size: 32px; }
+      .news-item { padding: 25px; }
+      .news-item h2 { font-size: 24px; }
+    }
   </style>
 </head>
 <body>
   <div class="container">
     <div class="header">
       <div class="editor-id">【大龙一号 · 新加坡本地新闻主编】</div>
-      <h1>新加坡每日深度新闻简报</h1>
-      <div class="meta">2026-02-24 ｜ 全网聚合 ｜ 深度详情版</div>
+      <h1>新加坡每日深度简报</h1>
+      <div class="meta">2026-02-24 ｜ 实时更新 ｜ 深度解析</div>
     </div>
     
     <div class="news-item">
-      <h2>1. 电子烟多到抓不完？ICA去年拦下35万支！</h2>
-      <div class="story"><strong>深度摘要：</strong>ICA 2025年报告显示走私企图增加30.6%，全年查获逾35万支电子烟。走私手段日益隐蔽，当局将加强AI扫描技术执法，打击非法入境违禁品。</div>
-      <div class="story" style="font-size: 18px; color: #555; background: #fff9f9; padding: 15px; border-radius: 10px; margin-top: 10px;">
-        <strong>深度爆料内容：</strong><br>根据移民与关卡局（ICA）最新发布的2025年年度统计报告，新加坡的边境安全面临严峻挑战。去年，执法人员拦截非法走私企图的次数同比大幅增长了30.6%，形势不容乐观。在各类违禁品中，电子烟及其相关配件的走私活动尤为猖獗，全年共缴获超过35万支电子烟。这一数据反映出，尽管新加坡法律严厉禁止电子烟，但黑市需求依然强劲。
-
-报告详细列举了走私者的“百般武艺”：有的将电子烟藏在卡车底盘，有的塞在经过改装的音箱里，甚至还有人企图通过包裹快递化整为零。ICA指出，走私手段的隐蔽性正在增加，执法难度也随之提升。除了电子烟，漏税烟、受管制药物和非法武器配件也是查获的重点。ICA发言人表示，边境是保护国家安全的第一道防线，当局将继续利用人工智能扫描技术和增强型检查手段，确保违禁品无法流入。与此同时，公众也被提醒，持有、使用或购买电子烟在新加坡均属违法行为，最高可面临罚款甚至监禁。各界对此反应强烈，不少家长表示支持加大打击力度，担心电子烟荼毒青少年，而社会学家则呼吁从源头治理需求问题。
+      <div class="news-tag">#1 今日头条</div>
+      <h2>海关大丰收！去年查获35万支电子烟，走私案激增30%</h2>
+      <div class="summary-box">
+        <strong>💡 核心摘要：</strong>ICA 2025年报告显示，走私案件激增30.6%，其中查获电子烟超35万支。当局表示将利用AI技术强化边境安检，打击层出不穷的走私手段。
       </div>
-      <div class="btn-wrap" style="margin-top: 15px;">
-        <a href="https://mustsharenews.com/ica-contraband-smuggling-report/" target="_blank" class="link-btn">查看官网原文</a>
+      <div class="report-box" style="white-space: pre-wrap;">
+        根据新加坡移民与关卡局（ICA）发布的最新数据，**2025年破获的走私案件比前一年激增了30.6%**。这一显著增长反映了不法分子在边境尝试偷运违禁品的频率大幅提升。
+
+在所有违禁品中，电子烟的查获量最为惊人，**全年共搜出超过35万支电子烟及其配件**。ICA指出，走私手段层出不穷，包括将违禁品藏在改装过的车辆隔层、家具甚至是看似普通的包裹内。
+
+当局强调，将继续利用**高科技扫描设备和AI分析系统**强化边境检查。面对电子烟在本地蔓延的趋势，执法部门将保持零容忍态度，严厉打击通过各种渠道进入新加坡的非法烟具。
+      </div>
+      <div class="action-area">
+        <a href="https://mustsharenews.com/ica-contraband-smuggling-report/" target="_blank" class="link-btn">阅读官方来源 →</a>
       </div>
     </div>
     <div class="news-item">
-      <h2>2. LTA突击检查！19台非法改装电单车被扣</h2>
-      <div class="story"><strong>深度摘要：</strong>LTA近期全岛执法，扣押19台非法改装活跃通勤设备。行动针对违规用户及零售商，旨在消除超标设备带来的安全火灾隐患。</div>
-      <div class="story" style="font-size: 18px; color: #555; background: #fff9f9; padding: 15px; border-radius: 10px; margin-top: 10px;">
-        <strong>深度爆料内容：</strong><br>陆路交通管理局（LTA）近日在全岛范围内展开了代号为“安全通路”的大规模执法行动，目标直指违规的活跃通勤设备（AMD），包括非法改装的电动单车（PAB）和个人代步工具（PMD）。在此次行动中，执法人员共扣押了19台不符合规定的设备。这些设备要么超重，要么宽度超标，或者非法加装了高功率电池，存在极大的火灾和道路安全隐患。
-
-除了针对路面上的使用者，LTA这次还采取了“端窝”战术，突击搜查了几家涉嫌售卖非合规设备及提供改装服务的零售商。根据现场图片显示，部分被扣押的设备电线裸露，电池改装痕迹明显。LTA强调，非法改装不仅违反路交法，更会对公共安全构成威胁。受访的公众纷纷叫好，尤其是行人，他们表示一些非法改装的电单车在人行道上横冲直撞，速度快得惊人。LTA重申，一旦发现违规设备，不仅会当场扣押，使用者和相关商家还将面临高额罚款甚至被控上法庭。当局呼吁公众举报违规行为，共同维护社区安全。
+      <div class="news-tag">#2 今日头条</div>
+      <h2>牛车水奇葩窃案！男子偷钱包后，竟先跑去买肉干？</h2>
+      <div class="summary-box">
+        <strong>💡 核心摘要：</strong>一名男子在牛车水地铁站被偷钱包，嫌犯得手后立刻用受害者的信用卡购买肉干。警方通过刷卡记录迅速锁定并逮捕了嫌犯。提醒公众看管好财物并及时挂失卡片。
       </div>
-      <div class="btn-wrap" style="margin-top: 15px;">
-        <a href="https://mustsharenews.com/non-compliant-devices-seized/" target="_blank" class="link-btn">查看官网原文</a>
+      <div class="report-box" style="white-space: pre-wrap;">
+        近日，牛车水地铁站发生了一起令人啼笑皆非的窃案。一名男子的钱包在站内被盗，嫌犯在得手后并没有立即逃离，而是**第一时间前往附近的肉干店消费**。
+
+正是由于嫌犯**使用了受害者的信用卡购买肉干**，触发了银行的实时转账提醒，警方顺藤摸瓜，在短时间内就在牛车水附近将这名贪吃的窃贼逮捕归案。受害者的损失包括现金和多张重要证件。
+
+警方提醒公众，在人流密集的地铁站务必看管好个人财物。同时，**一旦发现信用卡丢失，应立即联系银行挂失**，以阻止不法分子的后续消费行为。
+      </div>
+      <div class="action-area">
+        <a href="https://mustsharenews.com/wallet-stolen-chinatown-mrt/" target="_blank" class="link-btn">阅读官方来源 →</a>
       </div>
     </div>
     <div class="news-item">
-      <h2>3. 去泰国玩更贵了！6月起收45新币离境税</h2>
-      <div class="story"><strong>深度摘要：</strong>泰国宣布6月20日起征收约45.60新元的机场离境费，直接计入机票。该资金将用于机场升级，预计将增加新加坡游客的旅行成本。</div>
-      <div class="story" style="font-size: 18px; color: #555; background: #fff9f9; padding: 15px; border-radius: 10px; margin-top: 10px;">
-        <strong>深度爆料内容：</strong><br>经常去曼谷血拼的新加坡人注意了！泰国机场管理局宣布，将从2026年6月20日起，对从泰国主要机场出境的国际旅客征收额外的离境费。换算成新币，这笔费用大约为45.60新元。这笔费用将直接包含在机票价格中，意味着未来购买赴泰机票时，票价将出现明显涨幅。
-
-泰国当局解释称，这笔收入将用于改善机场基础设施，以及升级自动清关系统。目前，泰国的曼谷苏凡纳布机场、廊曼机场以及普吉岛、清迈等热门旅游地机场均在实施范围内。对于新加坡游客来说，泰国一直是短途度假的首选，每年有数十万人次往返。尽管45新币看起来不算巨款，但对于精打细算的廉航旅客来说，这几乎占到机票价格的三分之一。旅游专家预测，在新政策实施初期，可能会引发一波赶在6月前的旅游热潮。同时，也有旅客表示，如果机票涨幅过大，可能会考虑转去马来西亚或越南度假。无论如何，泰国的这一举动无疑会对东南亚旅游市场产生连锁反应。
+      <div class="news-tag">#3 今日头条</div>
+      <h2>非法代步工具克星！LTA突击行动扣押19台违规器械</h2>
+      <div class="summary-box">
+        <strong>💡 核心摘要：</strong>LTA在最新行动中扣押了19台违规电动代步工具，并对相关用户和零售商展开调查。当局重申将严厉打击非法改装和不合规设备，确保公共安全。
       </div>
-      <div class="btn-wrap" style="margin-top: 15px;">
-        <a href="https://mustsharenews.com/thailand-departure-fee-airports/" target="_blank" class="link-btn">查看官网原文</a>
+      <div class="report-box" style="white-space: pre-wrap;">
+        新加坡陆路交通管理局（LTA）近期开展了针对**违规电动代步工具（AMD）**的专项执法行动，成功扣押了19台不符合安全标准的设备。这些设备往往经过非法改装，存在极大的起火或交通事故风险。
+
+行动中，执法人员不仅在路面上拦截违规使用者，还**突击检查了数家涉嫌销售非合规设备的零售商**。根据现行法规，在公共路径上使用未经认证或非法改装的代步工具是严重违法行为。
+
+LTA强调，将持续加强路面巡逻和对零售渠道的监管，确保所有在公共路径上行驶的设备**符合安全规格和注册要求**，以保障行人的出行安全。
+      </div>
+      <div class="action-area">
+        <a href="https://mustsharenews.com/non-compliant-devices-seized/" target="_blank" class="link-btn">阅读官方来源 →</a>
       </div>
     </div>
     <div class="news-item">
-      <h2>4. 抄袭疑云！本地婚礼平台指控大公司“复制粘贴”</h2>
-      <div class="story"><strong>深度摘要：</strong>本地婚礼初创平台Wedded.sg指控一大型公司抄袭其网站设计，并公开了高度相似的截图证据。事件引发关于知识产权保护的热议。</div>
-      <div class="story" style="font-size: 18px; color: #555; background: #fff9f9; padding: 15px; border-radius: 10px; margin-top: 10px;">
-        <strong>深度爆料内容：</strong><br>新加坡初创公司Wedded.sg近日在社交媒体上引发广泛关注。该平台创始人公开指控一家规模更大的婚礼策划公司在其网站上线后，竟然“完全复制粘贴”了他们的网站设计和用户界面。根据Wedded.sg提供的对比图，两者的页面布局、颜色搭配、甚至某些特定的功能描述几乎如出一辙。
-
-初创公司表示，他们花费了数月时间进行市场调研和界面设计，结果心血却被轻易剽窃。创始人愤怒地表示：“作为初创公司，我们依靠创新生存，但这种行为极大地打击了本地创业者的士气。”此事件在本地创业圈炸开了锅，许多同行纷纷声援，谴责这种缺乏商业道德的行为。法律专家指出，此类版权争议在数字时代日益增多，虽然网页设计受版权法保护，但要界定“抄袭”而非“借鉴”往往需要复杂的取证过程。目前，被指控的公司尚未做出正式回应。这一事件再次引发了新加坡社会对于知识产权保护以及大企业竞争手段的激烈讨论。
+      <div class="news-tag">#4 今日头条</div>
+      <h2>飞泰国更贵了！6月起加收$45离境税，坡友要注意</h2>
+      <div class="summary-box">
+        <strong>💡 核心摘要：</strong>从6月20日起，从泰国机场离境的国际旅客需缴纳约45.60新元的额外费用。该费用将计入机票成本。建议近期规划泰国游的新加坡旅客关注票价波动。
       </div>
-      <div class="btn-wrap" style="margin-top: 15px;">
-        <a href="https://mustsharenews.com/wedded-sg-wedding-companies-copied-website/" target="_blank" class="link-btn">查看官网原文</a>
+      <div class="report-box" style="white-space: pre-wrap;">
+        准备去泰国旅游的新加坡朋友们要留意了！从**2026年6月20日**起，泰国所有主要机场将向国际旅客额外收取每人**约45.60新元（约1200泰铢）的离境税**。
+
+这笔费用通常会直接包含在机票价格中，这意味着未来往返新加坡与泰国之间的旅行成本将有所上升。泰国政府表示，这笔资金将用于**改善机场设施和提升旅客的安全保障服务**。
+
+由于泰国是新加坡人最热门的短期旅游目的地之一，预计这一政策变动将影响大量在下半年有出游计划的国人。建议大家在预订机票时，留意最终价格的变化。
+      </div>
+      <div class="action-area">
+        <a href="https://mustsharenews.com/thailand-departure-fee-airports/" target="_blank" class="link-btn">阅读官方来源 →</a>
       </div>
     </div>
     <div class="news-item">
-      <h2>5. 新加坡变四季？网友：冬天吃叻沙才爽</h2>
-      <div class="story"><strong>深度摘要：</strong>网帖探讨新加坡若有四季是否更快乐，引发热议。支持者向往穿搭与氛围，反对者担忧建筑防寒和设施维护，引发对本地生活方式的思考。</div>
-      <div class="story" style="font-size: 18px; color: #555; background: #fff9f9; padding: 15px; border-radius: 10px; margin-top: 10px;">
-        <strong>深度爆料内容：</strong><br>一直以来，新加坡只有“夏天”和“更热的夏天”。然而，最近网上一篇关于“如果新加坡有四季会怎样”的帖子引发了全城热议。发帖者畅想：如果能在冬天穿着厚大衣在乌节路散步，或者在寒风中吃一碗热腾腾的叻沙，生活是否会更有仪式感，新加坡人也会因此更快乐？
-
-这一话题迅速分成了两大阵营。支持派认为，四季变换能缓解视觉疲劳，大家可以尝试不同的时尚穿搭，冬季的节日气氛也会更浓厚。然而，反对派则从现实主义角度出发，提出了许多“硬伤”：首先，新加坡的建筑设计完全没有防寒功能，大家会冻到发抖；其次，落叶和积雪会给环卫工人带来巨大压力，甚至导致地铁延误。更有网友调侃：“现在的降雨已经让很多地方淹水了，如果下雪，咱们的排水系统估计要崩掉。”尽管这只是一个假设性的讨论，但它反映了新加坡人对于改变单调气候的渴望，以及对生活质量的不同理解。正如一位网民所言：“快乐不在于天气，而在于你有多少假可以出国看雪。”
+      <div class="news-tag">#5 今日头条</div>
+      <h2>狮城版“抄袭门”？婚礼平台Wedded.sg指控大公司全盘复制</h2>
+      <div class="summary-box">
+        <strong>💡 核心摘要：</strong>初创婚礼平台Wedded.sg指控一大型公司抄袭其网页设计，引发关注。创始人展示了高度相似的对比证据，事件在本地科技和商业界引发关于知识产权的讨论。
       </div>
-      <div class="btn-wrap" style="margin-top: 15px;">
-        <a href="https://mustsharenews.com/singaporeans-happier-four-seasons/" target="_blank" class="link-btn">查看官网原文</a>
+      <div class="report-box" style="white-space: pre-wrap;">
+        本地初创公司**Wedded.sg**近日在社交媒体上发声，指控一家规模更大的同类公司在网站上线后，**对其网页设计和功能进行了“复制加粘贴”式的抄袭**。
+
+Wedded.sg展示了对比截图，声称从排版到交互逻辑，对方的网站与自己几乎一模一样。创始人表示，作为一个资源有限的初创团队，看到自己的原创心血被大公司轻易挪用感到非常无奈和气愤。
+
+目前，该事件在本地创业圈引发了广泛讨论。法律专家指出，**网页设计的版权保护**在新加坡是一个复杂领域，但这种行为无疑会损害行业的创新氛围。Wedded.sg正考虑采取进一步的法律行动。
+      </div>
+      <div class="action-area">
+        <a href="https://mustsharenews.com/wedded-sg-wedding-companies-copied-website/" target="_blank" class="link-btn">阅读官方来源 →</a>
       </div>
     </div>
     <div class="news-item">
-      <h2>6. 这就是母爱！克兰芝猛禽风雨中守护雏鸟</h2>
-      <div class="story"><strong>深度摘要：</strong>摄影师在克兰芝拍到栗鸢母鸟冒雨为雏鸟挡雨的感人画面，父鸟在旁守护。照片走红网络，网民纷纷感叹自然界的母爱伟大。</div>
-      <div class="story" style="font-size: 18px; color: #555; background: #fff9f9; padding: 15px; border-radius: 10px; margin-top: 10px;">
-        <strong>深度爆料内容：</strong><br>在繁忙的新加坡，大自然总能带给我们意想不到的感动。近日，一名自然摄影师在克兰芝沼泽地（Kranji Marshes）拍摄到了一组令人动容的照片。画面中，一只栗鸢（Brahminy Kite）母亲在突如其来的暴雨中，张开宽大的翅膀，像一把天然的雨伞，将两只年幼的雏鸟紧紧护在身下，任凭风吹雨打也纹丝不动。
-
-而就在不远处的树枝上，栗鸢父亲正冒着雨保持警惕，随时准备应对潜在的威胁。这组照片被分享到社交媒体后，迅速获得了数千次点赞。网友们被猛禽展现出的温柔母爱所打动，纷纷留言称：“这就是母爱的本能，不分物种。”野生动物专家介绍，栗鸢是新加坡常见的猛禽，但在极端天气下拍摄到如此清晰的育雏行为非常难得。这也再次提醒我们，新加坡虽然城市化程度高，但依然拥有丰富的生物多样性，这些生灵在闹市一隅努力生存、繁衍，值得我们每一个人的尊重和保护。这段视频也成为了近期本地社区最治愈的力量。
+      <div class="news-tag">#6 今日头条</div>
+      <h2>这就是母爱！克兰芝鹰妈雨中张开双翼护雏，画面超治愈</h2>
+      <div class="summary-box">
+        <strong>💡 核心摘要：</strong>摄影师在克兰芝拍到栗鸢母亲在雨中张开翅膀保护幼鸟的温馨画面。这一幕展现了自然界动人的母爱，引发网友疯传。专家呼吁公众远距离观赏，勿干扰生态。
       </div>
-      <div class="btn-wrap" style="margin-top: 15px;">
-        <a href="https://mustsharenews.com/kite-chicks-rain-kranji/" target="_blank" class="link-btn">查看官网原文</a>
+      <div class="report-box" style="white-space: pre-wrap;">
+        近日，在新加坡克兰芝（Kranji）地区，一名自然摄影爱好者捕捉到了极其感人的一幕：一只**栗鸢（Brahminy Kite）母亲在倾盆大雨中，张开宽大的双翼遮住巢中的幼鸟**。
+
+照片显示，母鹰全身湿透，但依然坚定地维持着护鸟的姿势，而**父鹰则在附近的分支上警惕地守卫**。这种极具本能的母爱表现，触动了无数网友的心。新加坡的城市绿化极好，为这类猛禽提供了理想的筑巢地。
+
+国家公园局（NParks）经常提醒公众，在观察这类珍稀鸟类时应保持距离，**切勿干扰它们的育雏过程**，让这些大自然的生灵能在这个城市花园中安稳繁衍。
+      </div>
+      <div class="action-area">
+        <a href="https://mustsharenews.com/kite-chicks-rain-kranji/" target="_blank" class="link-btn">阅读官方来源 →</a>
       </div>
     </div>
-    <div class="footer">以上内容由 大龙自动化系统 为您整理播报 ｜ 2026-02-24</div>
+    <div class="footer">
+      <strong>大龙自动化系统</strong> 为您呈现<br>
+      让阅读更有深度 ｜ 2026-02-24
+    </div>
   </div>
 </body>
 </html>

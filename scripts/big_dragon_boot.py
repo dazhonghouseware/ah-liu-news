@@ -12,7 +12,7 @@ import re
 import shutil
 
 # --- 配置区 ---
-API_KEY = "AIzaSyBAB8IkOZWxIf821tHl7TCkoxnMPOk2I-M"
+API_KEY = "AIzaSyAdHhblUYAtkvjTDsavf9ursUMb5wpKsKk"
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 date_str = time.strftime("%Y-%m-%d")
 STATUS_FILE = os.path.join(BASE_DIR, f"tiktok_script_{date_str}.md")
@@ -109,7 +109,7 @@ JSON 结构要求：
       "id": 1,
       "title": "抓人标题",
       "full_title": "用于播报的详细标题",
-      "deep_report": "深度爆料详情。请根据素材进行扩充和润色，写出像深度报道一样的详细文章，字数 300-500 字，包含背景、事件经过、各方反应。语言要生动、地道。",
+      "deep_report": "深度爆料详情。请通过多段落（每段 2-3 句话）和加粗关键信息来增加可读性。直接返回带换行符的纯文本即可。",
       "summary": "150字左右的精简摘要，用于快速阅读",
       "broadcast_text": "用于语音播报的口语化文案，250字左右，语气地道",
       "url": "来源链接",
@@ -156,13 +156,16 @@ def update_all_files(data):
     # 我们直接生成完整的 HTML，不再依赖正则替换，避免出错
     items_html = "".join([f'''
     <div class="news-item">
-      <h2>{n["id"]}. {n["title"]}</h2>
-      <div class="story"><strong>深度摘要：</strong>{n["summary"]}</div>
-      <div class="story" style="font-size: 18px; color: #555; background: #fff9f9; padding: 15px; border-radius: 10px; margin-top: 10px;">
-        <strong>深度爆料内容：</strong><br>{n["deep_report"]}
+      <div class="news-tag">#{n["id"]} 今日头条</div>
+      <h2>{n["title"]}</h2>
+      <div class="summary-box">
+        <strong>💡 核心摘要：</strong>{n["summary"]}
       </div>
-      <div class="btn-wrap" style="margin-top: 15px;">
-        <a href="{n["url"]}" target="_blank" class="link-btn">查看官网原文</a>
+      <div class="report-box" style="white-space: pre-wrap;">
+        {n["deep_report"]}
+      </div>
+      <div class="action-area">
+        <a href="{n["url"]}" target="_blank" class="link-btn">阅读官方来源 →</a>
       </div>
     </div>''' for n in news])
 
@@ -170,28 +173,156 @@ def update_all_files(data):
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>新加坡每日深度新闻简报 — {date}</title>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700;900&display=swap');
-    body {{ font-family: 'Noto Sans SC', sans-serif; font-size: 22px; line-height: 1.8; background: #f9f7f4; color: #1a1a1a; padding: 30px; }}
-    .container {{ max-width: 1000px; margin: 0 auto; }}
-    .header {{ background: linear-gradient(135deg, #8e0000, #c0392b); color: white; border-radius: 16px; padding: 40px; margin-bottom: 35px; text-align: center; box-shadow: 0 10px 30px rgba(142,0,0,0.2); }}
-    .editor-id {{ font-size: 20px; color: #ffd700; font-weight: 700; margin-bottom: 10px; }}
-    .news-item {{ background: white; border-radius: 20px; padding: 40px; margin-bottom: 30px; box-shadow: 0 8px 25px rgba(0,0,0,0.06); border-left: 10px solid #8e0000; }}
-    .news-item h2 {{ font-size: 30px; font-weight: 900; margin-bottom: 20px; }}
-    .link-btn {{ text-decoration: none; color: white; background: #8e0000; padding: 8px 20px; border-radius: 8px; font-size: 18px; font-weight: 700; }}
-    .footer {{ text-align: center; color: #888; padding: 40px; font-size: 18px; border-top: 1px dashed #ddd; }}
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@700;900&family=Outfit:wght@300;400;600&family=Noto+Sans+SC:wght@300;400;500;700&display=swap');
+    
+    :root {{
+      --primary: #8e0000;
+      --accent: #ffd700;
+      --bg: #fdfcfb;
+      --text: #2c3e50;
+      --card-bg: #ffffff;
+    }}
+
+    body {{ 
+      font-family: 'Noto Sans SC', sans-serif; 
+      font-size: 18px; 
+      line-height: 1.8; 
+      background: var(--bg); 
+      color: var(--text); 
+      padding: 20px;
+      margin: 0;
+    }}
+
+    .container {{ max-width: 800px; margin: 0 auto; }}
+
+    .header {{ 
+      background: linear-gradient(135deg, #1a1a1a, #4a0000); 
+      color: white; 
+      border-radius: 24px; 
+      padding: 60px 20px; 
+      margin-bottom: 40px; 
+      text-align: center; 
+      box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+      position: relative;
+      overflow: hidden;
+    }}
+
+    .header::after {{
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: radial-gradient(circle at top right, rgba(255,215,0,0.1), transparent);
+    }}
+
+    .editor-id {{ 
+      font-size: 16px; 
+      color: var(--accent); 
+      font-weight: 700; 
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 15px;
+    }}
+
+    .header h1 {{ 
+      font-family: 'Noto Serif SC', serif;
+      font-size: 42px; 
+      margin: 0;
+      font-weight: 900;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }}
+
+    .meta {{ opacity: 0.8; font-size: 14px; margin-top: 10px; }}
+
+    .news-item {{ 
+      background: var(--card-bg); 
+      border-radius: 24px; 
+      padding: 40px; 
+      margin-bottom: 40px; 
+      box-shadow: 0 10px 30px rgba(0,0,0,0.04); 
+      border: 1px solid rgba(0,0,0,0.03);
+      transition: transform 0.3s ease;
+    }}
+    
+    .news-item:hover {{ transform: translateY(-5px); }}
+
+    .news-tag {{
+      display: inline-block;
+      background: rgba(142,0,0,0.05);
+      color: var(--primary);
+      font-size: 12px;
+      font-weight: 700;
+      padding: 4px 12px;
+      border-radius: 100px;
+      margin-bottom: 15px;
+    }}
+
+    .news-item h2 {{ 
+      font-family: 'Noto Serif SC', serif;
+      font-size: 28px; 
+      font-weight: 900; 
+      margin-top: 0;
+      margin-bottom: 25px;
+      color: #1a1a1a;
+      line-height: 1.3;
+    }}
+
+    .summary-box {{
+      background: #fbfbfb;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 25px;
+      border-left: 4px solid var(--primary);
+      font-size: 17px;
+    }}
+
+    .report-box {{
+      font-size: 19px;
+      color: #445;
+      line-height: 2;
+      border-top: 1px dashed #eee;
+      padding-top: 25px;
+    }}
+
+    .link-btn {{ 
+      display: inline-block;
+      text-decoration: none; 
+      color: white; 
+      background: #1a1a1a; 
+      padding: 12px 28px; 
+      border-radius: 100px; 
+      font-size: 15px; 
+      font-weight: 600;
+      transition: all 0.2s;
+    }}
+    
+    .link-btn:hover {{ background: var(--primary); transform: scale(1.05); }}
+
+    .action-area {{ margin-top: 30px; text-align: right; }}
+
+    .footer {{ text-align: center; color: #999; padding: 60px 0; font-size: 14px; }}
+
+    @media (max-width: 600px) {{
+      .header h1 {{ font-size: 32px; }}
+      .news-item {{ padding: 25px; }}
+      .news-item h2 {{ font-size: 24px; }}
+    }}
   </style>
 </head>
 <body>
   <div class="container">
     <div class="header">
       <div class="editor-id">{IDENTIFIER_EDITOR}</div>
-      <h1>新加坡每日深度新闻简报</h1>
-      <div class="meta">{date} ｜ 全网聚合 ｜ 深度详情版</div>
+      <h1>新加坡每日深度简报</h1>
+      <div class="meta">{date} ｜ 实时更新 ｜ 深度解析</div>
     </div>
     {items_html}
-    <div class="footer">以上内容由 大龙自动化系统 为您整理播报 ｜ {date}</div>
+    <div class="footer">
+      <strong>大龙自动化系统</strong> 为您呈现<br>
+      让阅读更有深度 ｜ {date}
+    </div>
   </div>
 </body>
 </html>"""

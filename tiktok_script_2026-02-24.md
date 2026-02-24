@@ -4,97 +4,109 @@
 
 ---
 
-## 📌 第1条：电子烟多到抓不完？ICA去年拦下35万支！
+## 📌 第1条：海关大丰收！去年查获35万支电子烟，走私案激增30%
 
 ### 📖 深度爆料详情
-根据移民与关卡局（ICA）最新发布的2025年年度统计报告，新加坡的边境安全面临严峻挑战。去年，执法人员拦截非法走私企图的次数同比大幅增长了30.6%，形势不容乐观。在各类违禁品中，电子烟及其相关配件的走私活动尤为猖獗，全年共缴获超过35万支电子烟。这一数据反映出，尽管新加坡法律严厉禁止电子烟，但黑市需求依然强劲。
+根据新加坡移民与关卡局（ICA）发布的最新数据，**2025年破获的走私案件比前一年激增了30.6%**。这一显著增长反映了不法分子在边境尝试偷运违禁品的频率大幅提升。
 
-报告详细列举了走私者的“百般武艺”：有的将电子烟藏在卡车底盘，有的塞在经过改装的音箱里，甚至还有人企图通过包裹快递化整为零。ICA指出，走私手段的隐蔽性正在增加，执法难度也随之提升。除了电子烟，漏税烟、受管制药物和非法武器配件也是查获的重点。ICA发言人表示，边境是保护国家安全的第一道防线，当局将继续利用人工智能扫描技术和增强型检查手段，确保违禁品无法流入。与此同时，公众也被提醒，持有、使用或购买电子烟在新加坡均属违法行为，最高可面临罚款甚至监禁。各界对此反应强烈，不少家长表示支持加大打击力度，担心电子烟荼毒青少年，而社会学家则呼吁从源头治理需求问题。
+在所有违禁品中，电子烟的查获量最为惊人，**全年共搜出超过35万支电子烟及其配件**。ICA指出，走私手段层出不穷，包括将违禁品藏在改装过的车辆隔层、家具甚至是看似普通的包裹内。
+
+当局强调，将继续利用**高科技扫描设备和AI分析系统**强化边境检查。面对电子烟在本地蔓延的趋势，执法部门将保持零容忍态度，严厉打击通过各种渠道进入新加坡的非法烟具。
 
 ### 🎬 TikTok 爆款脚本策划
 | 画面建议 | 口播文案 |
 | :--- | :--- |
-| 快速剪辑ICA查获电子烟的现场照片，配上震憾的警报声特效，中间穿插‘350,000’的大字幕。 | Wa lao eh! 35万支电子烟啊！ICA叔叔最近真的很忙嘞。走私案件起30多percent，你们以为藏在音箱我就看不到？Don't play play ah, 现在的AI scan很够力的一。劝你们那些想要try law的朋友，不要以为自己很steady，被抓到你就真的是sian half了！ |
+| 画面先展示满桌子的缴获电子烟特写，然后切到ICA在关口扫描货车的快节奏剪辑，最后配上违禁品清单。字幕用大字：350,000 VAPES SEIZED! | Wait ah, you think can hide meh? 去年ICA抓到35万支电子烟咧！Increase 30.6% hor! 那些走私的人也是真厉害，什么地方都能藏。But hello, now got AI scan already lah, still want to try? Don't play play hor, fine until you cry! Listen to me, illegal is illegal, don't bring in okay? |
 
 🔗 [查看原文详情](https://mustsharenews.com/ica-contraband-smuggling-report/)
 
 ---
 
-## 📌 第2条：LTA突击检查！19台非法改装电单车被扣
+## 📌 第2条：牛车水奇葩窃案！男子偷钱包后，竟先跑去买肉干？
 
 ### 📖 深度爆料详情
-陆路交通管理局（LTA）近日在全岛范围内展开了代号为“安全通路”的大规模执法行动，目标直指违规的活跃通勤设备（AMD），包括非法改装的电动单车（PAB）和个人代步工具（PMD）。在此次行动中，执法人员共扣押了19台不符合规定的设备。这些设备要么超重，要么宽度超标，或者非法加装了高功率电池，存在极大的火灾和道路安全隐患。
+近日，牛车水地铁站发生了一起令人啼笑皆非的窃案。一名男子的钱包在站内被盗，嫌犯在得手后并没有立即逃离，而是**第一时间前往附近的肉干店消费**。
 
-除了针对路面上的使用者，LTA这次还采取了“端窝”战术，突击搜查了几家涉嫌售卖非合规设备及提供改装服务的零售商。根据现场图片显示，部分被扣押的设备电线裸露，电池改装痕迹明显。LTA强调，非法改装不仅违反路交法，更会对公共安全构成威胁。受访的公众纷纷叫好，尤其是行人，他们表示一些非法改装的电单车在人行道上横冲直撞，速度快得惊人。LTA重申，一旦发现违规设备，不仅会当场扣押，使用者和相关商家还将面临高额罚款甚至被控上法庭。当局呼吁公众举报违规行为，共同维护社区安全。
+正是由于嫌犯**使用了受害者的信用卡购买肉干**，触发了银行的实时转账提醒，警方顺藤摸瓜，在短时间内就在牛车水附近将这名贪吃的窃贼逮捕归案。受害者的损失包括现金和多张重要证件。
+
+警方提醒公众，在人流密集的地铁站务必看管好个人财物。同时，**一旦发现信用卡丢失，应立即联系银行挂失**，以阻止不法分子的后续消费行为。
 
 ### 🎬 TikTok 爆款脚本策划
 | 画面建议 | 口播文案 |
 | :--- | :--- |
-| 执法人员拖走改装电单车的画面，配合‘LTA is watching you’的表情包，背景是繁忙的邻里街道。 | Siao liao, LTA come already! 你看你看，那台车改到这样，不抓你抓谁？19架车直接被tow走啊。不要以为改了电瓶跑很快就很style，被抓到你就知味道。Safety first hor, 乖乖去买合规格的设备啦，不然你的钱包真的会哭。 |
+| 博主拿着一袋肉干咬一口，画面左边是新闻截图。背景是牛车水地铁站。字幕：STOLE WALLET TO BUY BAK KWA?! | Walao eh! This thief really hungry ah? Steal wallet already, first thing he do is go buy Bak Kwa at Chinatown! Hello? You think police don't know meh? Swipe card only, bank send SMS, then the police come catch you lor. Is the Bak Kwa really that nice meh? Until you want to go jail for it? Aiyo, people, watch your pocket ah, later your wallet help people buy Bak Kwa! |
+
+🔗 [查看原文详情](https://mustsharenews.com/wallet-stolen-chinatown-mrt/)
+
+---
+
+## 📌 第3条：非法代步工具克星！LTA突击行动扣押19台违规器械
+
+### 📖 深度爆料详情
+新加坡陆路交通管理局（LTA）近期开展了针对**违规电动代步工具（AMD）**的专项执法行动，成功扣押了19台不符合安全标准的设备。这些设备往往经过非法改装，存在极大的起火或交通事故风险。
+
+行动中，执法人员不仅在路面上拦截违规使用者，还**突击检查了数家涉嫌销售非合规设备的零售商**。根据现行法规，在公共路径上使用未经认证或非法改装的代步工具是严重违法行为。
+
+LTA强调，将持续加强路面巡逻和对零售渠道的监管，确保所有在公共路径上行驶的设备**符合安全规格和注册要求**，以保障行人的出行安全。
+
+### 🎬 TikTok 爆款脚本策划
+| 画面建议 | 口播文案 |
+| :--- | :--- |
+| LTA执法人员搬运违规PMD的画面，配上警报声。屏幕中间大字：LTA CRACKDOWN! 19 DEVICES GONE! | Steady lah LTA! Still want to use illegal PMD ah? 19 devices kena impounded already hor! Not only catch you on the road, even the shop selling also kena. Safety first lah friend, later your battery siao then fire come how? Don't modify until like F1 car can or not? Just follow rules lah, steady pom pi pi! |
 
 🔗 [查看原文详情](https://mustsharenews.com/non-compliant-devices-seized/)
 
 ---
 
-## 📌 第3条：去泰国玩更贵了！6月起收45新币离境税
+## 📌 第4条：飞泰国更贵了！6月起加收$45离境税，坡友要注意
 
 ### 📖 深度爆料详情
-经常去曼谷血拼的新加坡人注意了！泰国机场管理局宣布，将从2026年6月20日起，对从泰国主要机场出境的国际旅客征收额外的离境费。换算成新币，这笔费用大约为45.60新元。这笔费用将直接包含在机票价格中，意味着未来购买赴泰机票时，票价将出现明显涨幅。
+准备去泰国旅游的新加坡朋友们要留意了！从**2026年6月20日**起，泰国所有主要机场将向国际旅客额外收取每人**约45.60新元（约1200泰铢）的离境税**。
 
-泰国当局解释称，这笔收入将用于改善机场基础设施，以及升级自动清关系统。目前，泰国的曼谷苏凡纳布机场、廊曼机场以及普吉岛、清迈等热门旅游地机场均在实施范围内。对于新加坡游客来说，泰国一直是短途度假的首选，每年有数十万人次往返。尽管45新币看起来不算巨款，但对于精打细算的廉航旅客来说，这几乎占到机票价格的三分之一。旅游专家预测，在新政策实施初期，可能会引发一波赶在6月前的旅游热潮。同时，也有旅客表示，如果机票涨幅过大，可能会考虑转去马来西亚或越南度假。无论如何，泰国的这一举动无疑会对东南亚旅游市场产生连锁反应。
+这笔费用通常会直接包含在机票价格中，这意味着未来往返新加坡与泰国之间的旅行成本将有所上升。泰国政府表示，这笔资金将用于**改善机场设施和提升旅客的安全保障服务**。
+
+由于泰国是新加坡人最热门的短期旅游目的地之一，预计这一政策变动将影响大量在下半年有出游计划的国人。建议大家在预订机票时，留意最终价格的变化。
 
 ### 🎬 TikTok 爆款脚本策划
 | 画面建议 | 口播文案 |
 | :--- | :--- |
-| 曼谷大皇宫或夜市的航拍，配上心碎的特效，文字显示‘Farewell Bangkok? $45.60 more’。 | Alamak! Thailand go airport also must pay more ah? $45.60 extra leh! 6月20号开始，机票直接起价。原本去BKK便宜便宜，现在要算清楚了。这笔钱拿去吃几碗MAMA noodles不香吗？谁还没买票的？趁6月前快点去咯，不然真的‘兴贵’（心痛）死你。 |
+| 博主在泰国街头喝泰式奶茶的画面，背景配上巨大的金额数字 $45.60。字幕：THAI TRIP GETTING EXPENSIVE! | Alamak! Love to go BKK for shopping? From June 20 hor, must pay extra $45.60 departure fee! Yah, per person hor! Your ticket price confirm go up one. Next time go Bangkok, cannot buy so many things liao, must save money for tax! If want cheap, better go before June lah. Faster go pack your luggage now! |
 
 🔗 [查看原文详情](https://mustsharenews.com/thailand-departure-fee-airports/)
 
 ---
 
-## 📌 第4条：抄袭疑云！本地婚礼平台指控大公司“复制粘贴”
+## 📌 第5条：狮城版“抄袭门”？婚礼平台Wedded.sg指控大公司全盘复制
 
 ### 📖 深度爆料详情
-新加坡初创公司Wedded.sg近日在社交媒体上引发广泛关注。该平台创始人公开指控一家规模更大的婚礼策划公司在其网站上线后，竟然“完全复制粘贴”了他们的网站设计和用户界面。根据Wedded.sg提供的对比图，两者的页面布局、颜色搭配、甚至某些特定的功能描述几乎如出一辙。
+本地初创公司**Wedded.sg**近日在社交媒体上发声，指控一家规模更大的同类公司在网站上线后，**对其网页设计和功能进行了“复制加粘贴”式的抄袭**。
 
-初创公司表示，他们花费了数月时间进行市场调研和界面设计，结果心血却被轻易剽窃。创始人愤怒地表示：“作为初创公司，我们依靠创新生存，但这种行为极大地打击了本地创业者的士气。”此事件在本地创业圈炸开了锅，许多同行纷纷声援，谴责这种缺乏商业道德的行为。法律专家指出，此类版权争议在数字时代日益增多，虽然网页设计受版权法保护，但要界定“抄袭”而非“借鉴”往往需要复杂的取证过程。目前，被指控的公司尚未做出正式回应。这一事件再次引发了新加坡社会对于知识产权保护以及大企业竞争手段的激烈讨论。
+Wedded.sg展示了对比截图，声称从排版到交互逻辑，对方的网站与自己几乎一模一样。创始人表示，作为一个资源有限的初创团队，看到自己的原创心血被大公司轻易挪用感到非常无奈和气愤。
+
+目前，该事件在本地创业圈引发了广泛讨论。法律专家指出，**网页设计的版权保护**在新加坡是一个复杂领域，但这种行为无疑会损害行业的创新氛围。Wedded.sg正考虑采取进一步的法律行动。
 
 ### 🎬 TikTok 爆款脚本策划
 | 画面建议 | 口播文案 |
 | :--- | :--- |
-| 左右分屏对比两个网站的截图，中间放一个大的‘COPYCAT?’字样，配合疑惑的表情包。 | Eh, hello! Copy my homework meh? Wedded.sg say their website kena copied by big company. 你们看，那个layout，那个color，真的是一样到... 我都不知道要讲什么。做生意要讲credit的嘛，这样抄初创公司的idea，很不好看嘞。大家来评评理，这算不算plagiarism？ |
+| 两个网页的对比画面，中间放一个巨大的‘CTRL+C, CTRL+V’图标。字幕：SMALL STARTUP VS BIG CO. COPYPASTE?! | Eh, you see this one? Small startup Wedded.sg say big company copy their website! Not a bit only hor, is copy and paste wholesale! Designing website is hard work you know, then the big fish just come and eat the small fish? So cham one! What do you think? Coincidence or really zero original idea? Comment below let me know! |
 
 🔗 [查看原文详情](https://mustsharenews.com/wedded-sg-wedding-companies-copied-website/)
 
 ---
 
-## 📌 第5条：新加坡变四季？网友：冬天吃叻沙才爽
+## 📌 第6条：这就是母爱！克兰芝鹰妈雨中张开双翼护雏，画面超治愈
 
 ### 📖 深度爆料详情
-一直以来，新加坡只有“夏天”和“更热的夏天”。然而，最近网上一篇关于“如果新加坡有四季会怎样”的帖子引发了全城热议。发帖者畅想：如果能在冬天穿着厚大衣在乌节路散步，或者在寒风中吃一碗热腾腾的叻沙，生活是否会更有仪式感，新加坡人也会因此更快乐？
+近日，在新加坡克兰芝（Kranji）地区，一名自然摄影爱好者捕捉到了极其感人的一幕：一只**栗鸢（Brahminy Kite）母亲在倾盆大雨中，张开宽大的双翼遮住巢中的幼鸟**。
 
-这一话题迅速分成了两大阵营。支持派认为，四季变换能缓解视觉疲劳，大家可以尝试不同的时尚穿搭，冬季的节日气氛也会更浓厚。然而，反对派则从现实主义角度出发，提出了许多“硬伤”：首先，新加坡的建筑设计完全没有防寒功能，大家会冻到发抖；其次，落叶和积雪会给环卫工人带来巨大压力，甚至导致地铁延误。更有网友调侃：“现在的降雨已经让很多地方淹水了，如果下雪，咱们的排水系统估计要崩掉。”尽管这只是一个假设性的讨论，但它反映了新加坡人对于改变单调气候的渴望，以及对生活质量的不同理解。正如一位网民所言：“快乐不在于天气，而在于你有多少假可以出国看雪。”
+照片显示，母鹰全身湿透，但依然坚定地维持着护鸟的姿势，而**父鹰则在附近的分支上警惕地守卫**。这种极具本能的母爱表现，触动了无数网友的心。新加坡的城市绿化极好，为这类猛禽提供了理想的筑巢地。
+
+国家公园局（NParks）经常提醒公众，在观察这类珍稀鸟类时应保持距离，**切勿干扰它们的育雏过程**，让这些大自然的生灵能在这个城市花园中安稳繁衍。
 
 ### 🎬 TikTok 爆款脚本策划
 | 画面建议 | 口播文案 |
 | :--- | :--- |
-| 用AI生成新加坡滨海湾金沙被大雪覆盖的画面，对比烈日下的乌节路。配上欢快的圣诞音乐vs知了叫声。 | S’pore got winter? Imagine ah, wearing fur coat in Orchard Road, steady bo? But then, window open big big, cold until tremble how? 冬天吃Laksa是很爽啦，但谁要去清雪？MRT肯定delay到乱。Anyway, dream only lah, 现在的太阳还是会把你晒到变成bak kwa。Go aircon mall better lah! |
-
-🔗 [查看原文详情](https://mustsharenews.com/singaporeans-happier-four-seasons/)
-
----
-
-## 📌 第6条：这就是母爱！克兰芝猛禽风雨中守护雏鸟
-
-### 📖 深度爆料详情
-在繁忙的新加坡，大自然总能带给我们意想不到的感动。近日，一名自然摄影师在克兰芝沼泽地（Kranji Marshes）拍摄到了一组令人动容的照片。画面中，一只栗鸢（Brahminy Kite）母亲在突如其来的暴雨中，张开宽大的翅膀，像一把天然的雨伞，将两只年幼的雏鸟紧紧护在身下，任凭风吹雨打也纹丝不动。
-
-而就在不远处的树枝上，栗鸢父亲正冒着雨保持警惕，随时准备应对潜在的威胁。这组照片被分享到社交媒体后，迅速获得了数千次点赞。网友们被猛禽展现出的温柔母爱所打动，纷纷留言称：“这就是母爱的本能，不分物种。”野生动物专家介绍，栗鸢是新加坡常见的猛禽，但在极端天气下拍摄到如此清晰的育雏行为非常难得。这也再次提醒我们，新加坡虽然城市化程度高，但依然拥有丰富的生物多样性，这些生灵在闹市一隅努力生存、繁衍，值得我们每一个人的尊重和保护。这段视频也成为了近期本地社区最治愈的力量。
-
-### 🎬 TikTok 爆款脚本策划
-| 画面建议 | 口播文案 |
-| :--- | :--- |
-| 栗鸢母鸟挡雨的慢动作视频，配上抒情的钢琴背景音乐，最后画面定格在‘Mother's Love’文字。 | You see, this is pure love. 克兰芝的大雨，这只kite妈妈用翅膀帮baby挡雨，完全不动。Father kite also nearby watching. 动物也有感情的一，看了心酸酸又暖暖。Appreciate your mother hor, they also protect us like this one. So touching sia... |
+| 慢动作播放老鹰在雨中护崽的动人画面，配上煽情的钢琴音乐。字幕：POWER OF MOTHER'S LOVE IN KRANJI. | SG rain so big, but this Mommy Kite never fly away. She use her wings to protect the small babies from the storm. So touched sia! In Kranji one hor! This is why we must protect our nature. Mother's love is universal lah. Don't go disturb them hor, just watch and say 'awww' can already. Share this to make someone's day! |
 
 🔗 [查看原文详情](https://mustsharenews.com/kite-chicks-rain-kranji/)
 
