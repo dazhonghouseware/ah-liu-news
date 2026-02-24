@@ -4,109 +4,109 @@
 
 ---
 
-## 📌 第1条：海关大丰收！去年查获35万支电子烟，走私案激增30%
+## 📌 第1条：偷钱包买肉干？牛车水惯偷落网！
 
 ### 📖 深度爆料详情
-根据新加坡移民与关卡局（ICA）发布的最新数据，**2025年破获的走私案件比前一年激增了30.6%**。这一显著增长反映了不法分子在边境尝试偷运违禁品的频率大幅提升。
+近日，一名男子在牛车水地铁站不慎遗失钱包，随后发现信用卡被盗刷。警方接报后迅速展开调查，发现嫌犯在得手后并未走远，竟然直接前往附近的肉干店**使用受害者的信用卡购买肉干**。
 
-在所有违禁品中，电子烟的查获量最为惊人，**全年共搜出超过35万支电子烟及其配件**。ICA指出，走私手段层出不穷，包括将违禁品藏在改装过的车辆隔层、家具甚至是看似普通的包裹内。
+通过调取监控录像和走访调查，警方锁定了嫌犯身份并将其逮捕。这类“贪小便宜吃大亏”的行为再次提醒公众，**在人流密集区务必保管好财物**，遇到财物丢失应立即挂失信用卡并报警。
 
-当局强调，将继续利用**高科技扫描设备和AI分析系统**强化边境检查。面对电子烟在本地蔓延的趋势，执法部门将保持零容忍态度，严厉打击通过各种渠道进入新加坡的非法烟具。
+目前，嫌犯正面临**非法持有他人财物及欺诈性使用信用卡**的指控，一旦罪名成立将面临牢狱之灾。肉干店员工也协助警方提供了关键线索。
 
 ### 🎬 TikTok 爆款脚本策划
 | 画面建议 | 口播文案 |
 | :--- | :--- |
-| 画面先展示满桌子的缴获电子烟特写，然后切到ICA在关口扫描货车的快节奏剪辑，最后配上违禁品清单。字幕用大字：350,000 VAPES SEIZED! | Wait ah, you think can hide meh? 去年ICA抓到35万支电子烟咧！Increase 30.6% hor! 那些走私的人也是真厉害，什么地方都能藏。But hello, now got AI scan already lah, still want to try? Don't play play hor, fine until you cry! Listen to me, illegal is illegal, don't bring in okay? |
-
-🔗 [查看原文详情](https://mustsharenews.com/ica-contraband-smuggling-report/)
-
----
-
-## 📌 第2条：牛车水奇葩窃案！男子偷钱包后，竟先跑去买肉干？
-
-### 📖 深度爆料详情
-近日，牛车水地铁站发生了一起令人啼笑皆非的窃案。一名男子的钱包在站内被盗，嫌犯在得手后并没有立即逃离，而是**第一时间前往附近的肉干店消费**。
-
-正是由于嫌犯**使用了受害者的信用卡购买肉干**，触发了银行的实时转账提醒，警方顺藤摸瓜，在短时间内就在牛车水附近将这名贪吃的窃贼逮捕归案。受害者的损失包括现金和多张重要证件。
-
-警方提醒公众，在人流密集的地铁站务必看管好个人财物。同时，**一旦发现信用卡丢失，应立即联系银行挂失**，以阻止不法分子的后续消费行为。
-
-### 🎬 TikTok 爆款脚本策划
-| 画面建议 | 口播文案 |
-| :--- | :--- |
-| 博主拿着一袋肉干咬一口，画面左边是新闻截图。背景是牛车水地铁站。字幕：STOLE WALLET TO BUY BAK KWA?! | Walao eh! This thief really hungry ah? Steal wallet already, first thing he do is go buy Bak Kwa at Chinatown! Hello? You think police don't know meh? Swipe card only, bank send SMS, then the police come catch you lor. Is the Bak Kwa really that nice meh? Until you want to go jail for it? Aiyo, people, watch your pocket ah, later your wallet help people buy Bak Kwa! |
+| 画面切换：牛车水地铁站熙熙攘攘的人群 -> 一张诱人的肉干特写 -> 警车灯光闪烁的效果 -> 标题：‘为了一片肉干进监狱？’ | Walao eh! 这个小偷真的sibei贪吃咯！在牛车水偷了钱包不跑，竟然跑去买肉干？Hello，信用卡是有record的嘛！现在好咯，肉干还没吃完，警察先来找你‘喝茶’。大家出门真的要小心，钱包塞好一点，不要给这种‘肉干贼’机会。Remember ah，丢了卡立刻Cancel，不然他下一餐可能就去吃海底捞了！ |
 
 🔗 [查看原文详情](https://mustsharenews.com/wallet-stolen-chinatown-mrt/)
 
 ---
 
-## 📌 第3条：非法代步工具克星！LTA突击行动扣押19台违规器械
+## 📌 第2条：6月去泰国变贵了！离境费大涨
 
 ### 📖 深度爆料详情
-新加坡陆路交通管理局（LTA）近期开展了针对**违规电动代步工具（AMD）**的专项执法行动，成功扣押了19台不符合安全标准的设备。这些设备往往经过非法改装，存在极大的起火或交通事故风险。
+准备去曼谷血拼的朋友注意了！从2026年6月20日起，所有从泰国国际机场离境的旅客将额外支付**约45.60新元的离境费**。这项费用通常会直接包含在机票价格中，导致机票整体上涨。
 
-行动中，执法人员不仅在路面上拦截违规使用者，还**突击检查了数家涉嫌销售非合规设备的零售商**。根据现行法规，在公共路径上使用未经认证或非法改装的代步工具是严重违法行为。
+泰国当局表示，这笔资金将用于**改善机场设施及提升旅客安全保障**。对于频繁往返新泰两地的“旅游特种兵”来说，这无疑是一笔不小的额外开支。
 
-LTA强调，将持续加强路面巡逻和对零售渠道的监管，确保所有在公共路径上行驶的设备**符合安全规格和注册要求**，以保障行人的出行安全。
+业内人士建议，计划在6月之后出行的公众，可以**提前订票以锁定当前的汇率和价格**，或者在预订时仔细核对费用明细，避免预算超支。
 
 ### 🎬 TikTok 爆款脚本策划
 | 画面建议 | 口播文案 |
 | :--- | :--- |
-| LTA执法人员搬运违规PMD的画面，配上警报声。屏幕中间大字：LTA CRACKDOWN! 19 DEVICES GONE! | Steady lah LTA! Still want to use illegal PMD ah? 19 devices kena impounded already hor! Not only catch you on the road, even the shop selling also kena. Safety first lah friend, later your battery siao then fire come how? Don't modify until like F1 car can or not? Just follow rules lah, steady pom pi pi! |
-
-🔗 [查看原文详情](https://mustsharenews.com/non-compliant-devices-seized/)
-
----
-
-## 📌 第4条：飞泰国更贵了！6月起加收$45离境税，坡友要注意
-
-### 📖 深度爆料详情
-准备去泰国旅游的新加坡朋友们要留意了！从**2026年6月20日**起，泰国所有主要机场将向国际旅客额外收取每人**约45.60新元（约1200泰铢）的离境税**。
-
-这笔费用通常会直接包含在机票价格中，这意味着未来往返新加坡与泰国之间的旅行成本将有所上升。泰国政府表示，这笔资金将用于**改善机场设施和提升旅客的安全保障服务**。
-
-由于泰国是新加坡人最热门的短期旅游目的地之一，预计这一政策变动将影响大量在下半年有出游计划的国人。建议大家在预订机票时，留意最终价格的变化。
-
-### 🎬 TikTok 爆款脚本策划
-| 画面建议 | 口播文案 |
-| :--- | :--- |
-| 博主在泰国街头喝泰式奶茶的画面，背景配上巨大的金额数字 $45.60。字幕：THAI TRIP GETTING EXPENSIVE! | Alamak! Love to go BKK for shopping? From June 20 hor, must pay extra $45.60 departure fee! Yah, per person hor! Your ticket price confirm go up one. Next time go Bangkok, cannot buy so many things liao, must save money for tax! If want cheap, better go before June lah. Faster go pack your luggage now! |
+| 画面：在曼谷街头吃喝的快剪 -> 突然出现的红色涨价警告 -> 算账的计算器画面 -> 建议提前订票的Tips文字。 | Sian ah! 去Thailand又要贵了？离境税涨到45块多新币，够我吃多少盘泰式炒粉了？6月20号之后飞的朋友，机票钱要看清楚喔。建议你们现在赶紧Book票，能省一点是一点。不然到时候，还没买手信，钱就先交给机场了。赶紧Tag你那个天天想去曼谷的朋友！ |
 
 🔗 [查看原文详情](https://mustsharenews.com/thailand-departure-fee-airports/)
 
 ---
 
-## 📌 第5条：狮城版“抄袭门”？婚礼平台Wedded.sg指控大公司全盘复制
+## 📌 第3条：2026预算案：AI时代你的饭碗稳吗？
 
 ### 📖 深度爆料详情
-本地初创公司**Wedded.sg**近日在社交媒体上发声，指控一家规模更大的同类公司在网站上线后，**对其网页设计和功能进行了“复制加粘贴”式的抄袭**。
+在最新的2026预算案辩论中，**新加坡的AI人工智能策略**成为了焦点。多位议员提出，在追求技术领先的同时，必须确保**年长员工和低技能劳动者**不被时代抛弃。
 
-Wedded.sg展示了对比截图，声称从排版到交互逻辑，对方的网站与自己几乎一模一样。创始人表示，作为一个资源有限的初创团队，看到自己的原创心血被大公司轻易挪用感到非常无奈和气愤。
+政府计划投入更多资源用于**员工再培训和技能创前程计划**，特别是在AI工具的应用上。议员们强调，建立社会对AI的信任至关重要，防止算法偏见和数据泄露是重中之重。
 
-目前，该事件在本地创业圈引发了广泛讨论。法律专家指出，**网页设计的版权保护**在新加坡是一个复杂领域，但这种行为无疑会损害行业的创新氛围。Wedded.sg正考虑采取进一步的法律行动。
+未来，职场将不再是单纯的人力竞争，而是**“人+AI”的协作竞争**。政府将提供更多津贴鼓励中小企业进行数字化转型，提升本地劳动力的核心竞争力。
 
 ### 🎬 TikTok 爆款脚本策划
 | 画面建议 | 口播文案 |
 | :--- | :--- |
-| 两个网页的对比画面，中间放一个巨大的‘CTRL+C, CTRL+V’图标。字幕：SMALL STARTUP VS BIG CO. COPYPASTE?! | Eh, you see this one? Small startup Wedded.sg say big company copy their website! Not a bit only hor, is copy and paste wholesale! Designing website is hard work you know, then the big fish just come and eat the small fish? So cham one! What do you think? Coincidence or really zero original idea? Comment below let me know! |
+| 画面：办公室白领对着电脑发愁 -> 一个高科技AI形象出现帮忙 -> 议事厅辩论画面剪辑 -> 绿色的‘SkillsFuture’标志。 | Confirm plus chop，AI是真的要来了！Budget 2026讲了，政府会Spend更多钱帮大家学AI。不要整天担心Job kena steal啦，去拿津贴学Upgrading才是真的。不管你是安哥安娣还是刚毕业，AI时代只要肯学，饭碗还是稳稳的！Heng ah，政府有Plan的！ |
 
-🔗 [查看原文详情](https://mustsharenews.com/wedded-sg-wedding-companies-copied-website/)
+🔗 [查看原文详情](https://www.channelnewsasia.com/singapore/budget-2026-ai-strategy-inclusivity-worker-support-5949451)
 
 ---
 
-## 📌 第6条：这就是母爱！克兰芝鹰妈雨中张开双翼护雏，画面超治愈
+## 📌 第4条：LTA大动作！19台违规代步工具被扣
 
 ### 📖 深度爆料详情
-近日，在新加坡克兰芝（Kranji）地区，一名自然摄影爱好者捕捉到了极其感人的一幕：一只**栗鸢（Brahminy Kite）母亲在倾盆大雨中，张开宽大的双翼遮住巢中的幼鸟**。
+陆路交通管理局（LTA）近期针对**违规个人代步工具（PMD）和电动辅助自行车（PAB）**展开了全岛大范围执法行动。在此次行动中，共有**19台不符合安全标准的设备**被当场扣押。
 
-照片显示，母鹰全身湿透，但依然坚定地维持着护鸟的姿势，而**父鹰则在附近的分支上警惕地守卫**。这种极具本能的母爱表现，触动了无数网友的心。新加坡的城市绿化极好，为这类猛禽提供了理想的筑巢地。
+这些违规设备大多存在**非法改装、重量超标或宽度超限**等问题，极易引发火灾或严重的道路安全事故。LTA同时对几家销售非合规设备的零售商进行了警告和查处。
 
-国家公园局（NParks）经常提醒公众，在观察这类珍稀鸟类时应保持距离，**切勿干扰它们的育雏过程**，让这些大自然的生灵能在这个城市花园中安稳繁衍。
+官方再次提醒，所有用户应确保所购设备贴有**橙色密封条或UL2272认证**，严禁私自改装。违规者不仅面临设备被没收，还可能被处以高额罚款甚至监禁。
 
 ### 🎬 TikTok 爆款脚本策划
 | 画面建议 | 口播文案 |
 | :--- | :--- |
-| 慢动作播放老鹰在雨中护崽的动人画面，配上煽情的钢琴音乐。字幕：POWER OF MOTHER'S LOVE IN KRANJI. | SG rain so big, but this Mommy Kite never fly away. She use her wings to protect the small babies from the storm. So touched sia! In Kranji one hor! This is why we must protect our nature. Mother's love is universal lah. Don't go disturb them hor, just watch and say 'awww' can already. Share this to make someone's day! |
+| 画面：LTA官员在街头检查代步工具 -> 被扣押的设备堆在一起 -> 各种禁止改装的图标符号 -> 醒目的‘Safety First’文字。 | Abuden? LTA又做工咯！19架违规PMD全部Kena Confiscate。你那个改装到像跑车一样的PAB，不要乱乱骑出来啊，等下被抓到你就哭不出声。记得Check你的橙色Sticker还有UL2272。Safety第一嘛，不然你的钱包跟你的车一起‘Gone’掉。Don't say I bo jio ah! |
+
+🔗 [查看原文详情](https://mustsharenews.com/non-compliant-devices-seized/)
+
+---
+
+## 📌 第5条：新捷运营收下跌，公交费会涨吗？
+
+### 📖 深度爆料详情
+新捷运（SBS Transit）公布了2025财年业绩，集团收入同比下降2.7%，至**15.2亿新元**。报告指出，尽管乘客量有所恢复，但受**运营成本上涨、能源价格波动及人力支出增加**的影响，整体利润表现承压。
+
+作为新加坡主要的公共交通运营商，新捷运的财务状况往往与**每年的车资调整**息息相关。虽然政府已提供相关补贴，但长期盈亏平衡仍面临挑战。
+
+目前，相关部门正在评估未来的交通费率，公众普遍关注这次营收下滑是否会导致**下一轮车资的进一步上调**。新捷运表示将继续提升运营效率，尽量降低成本转嫁。
+
+### 🎬 TikTok 爆款脚本策划
+| 画面建议 | 口播文案 |
+| :--- | :--- |
+| 画面：人们刷卡进地铁站的特写 -> SBS巴士行驶的画面 -> 财务报表向下的曲线 -> 疑惑的表情包配文‘Fare up again?’ | Steady bombibi, SBS Transit收入跌了咧。我的第一反应就是：Ayo，车资会不会又要Up了？现在什么都起价，如果搭Bus也起价，真的要走路上班咯。希望Transport Council可以Kao Dim一下，不要让我们的EasyLink扣到心痛。大家觉得呢？车资涨多少你可以接受？ |
+
+🔗 [查看原文详情](https://www.channelnewsasia.com/singapore/sbs-transit-full-year-2025-revenue-profit-fall-5949531)
+
+---
+
+## 📌 第6条：克兰芝感人一幕：老鹰雨中护崽
+
+### 📖 深度爆料详情
+大自然也有感人至深的父爱母爱！近日，有摄影师在克兰芝拍摄到了**栗鸢（Brahminy Kite）一家**在暴雨中的感人瞬间。视频显示，当倾盆大雨降临时，老鹰妈妈张开宽大的翅膀，像一把大伞一样将幼崽严严实实地护在身下。
+
+与此同时，老鹰爸爸也并未远去，而是在附近的树枝上**冒雨站岗，警惕周围的情况**。这一幕在社交媒体上引发了巨大反响，网友纷纷感叹“母爱的力量不分物种”。
+
+新加坡近年来在城市绿化和生态保护方面投入巨大，使得像克兰芝这样的地区成为了**多种珍稀野生动物的乐园**。公众受促在观鸟时保持距离，不要惊扰这些野生居民。
+
+### 🎬 TikTok 爆款脚本策划
+| 画面建议 | 口播文案 |
+| :--- | :--- |
+| 画面：雨中老鹰张开翅膀的温馨慢动作 -> 幼鸟钻在翅膀下的特写 -> 舒缓感性的背景音乐 -> 字幕：‘这就是爱。’ | Win liao lor! 真的被这对老鹰Couple感动到。雨下到这么重，老鹰妈咪好像Raincoat这样把Baby包到紧紧。老鹰Daddy也在外面Guard着。Nature真的sibei Power。在Singapore这个Garden City看到这种Scene，真的很治愈。Love is everywhere, even in Kranji! ❤️ |
 
 🔗 [查看原文详情](https://mustsharenews.com/kite-chicks-rain-kranji/)
 

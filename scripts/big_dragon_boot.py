@@ -12,8 +12,19 @@ import re
 import shutil
 
 # --- 配置区 ---
-API_KEY = "AIzaSyAdHhblUYAtkvjTDsavf9ursUMb5wpKsKk"
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# 自动读取本地 .env 文件中的 API_KEY
+def get_api_key():
+    env_path = os.path.join(BASE_DIR, ".env")
+    if os.path.exists(env_path):
+        with open(env_path, "r", encoding="utf-8") as f:
+            for line in f:
+                if line.startswith("GEMINI_API_KEY="):
+                    return line.split("=")[1].strip()
+    return "YOUR_KEY_HERE"
+
+API_KEY = get_api_key()
 date_str = time.strftime("%Y-%m-%d")
 STATUS_FILE = os.path.join(BASE_DIR, f"tiktok_script_{date_str}.md")
 TXT_FILE = os.path.join(BASE_DIR, f"today_news_{date_str}.txt")
