@@ -103,7 +103,7 @@ def fetch_all_news():
 def process_with_ai(news_list):
     print(f"大龙二号正在使用 AI 生成全套文案...")
     genai.configure(api_key=API_KEY)
-    model = genai.GenerativeModel('gemini-flash-latest')
+    model = genai.GenerativeModel('gemini-3-flash-preview')
     
     random.shuffle(news_list)
     pool = news_list[:15]
