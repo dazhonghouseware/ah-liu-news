@@ -2,163 +2,163 @@
 
 ---
 
-## 1. 「綠色和平」指控石油公司 趁中東衝突大發戰爭財
+## 1. 3 crypto employees arreste
 
-�️ **口播：**老板，快看：「綠色和平」指控石油公司 趁中東衝突大發戰爭財，详细内容我放在原文链接里。
+🎙️ **口播：**老板，快看：3 crypto employees arrested in，详细内容我放在原文链接里。
 
-🔗 [原文](https://ec.ltn.com.tw/article/breakingnews/5390267)
-
----
-
-## 2. OCBC breaches S$100 billio
-
-�️ **口播：**老板，快看：OCBC breaches S$100 billion ma，详细内容我放在原文链接里。
-
-🔗 [原文](https://www.businesstimes.com.sg/companies-markets/banking-finance/ocbc-breaches-s100-billion-market-cap-shares-hit-record-high)
+🔗 [原文](https://www.businesstimes.com.sg/singapore/3-crypto-employees-arrested-spore-extradited-us-face-charges-over-fraud-schemes)
 
 ---
 
-## 3. Singapore beat Bangladesh 
+## 2. 錶盤上12種鑽石切割點亮時間！Tiffany Ete
 
-�️ **口播：**老板，快看：Singapore beat Bangladesh 1-0,，详细内容我放在原文链接里。
+🎙️ **口播：**老板，快看：錶盤上12種鑽石切割點亮時間！Tiffany Eternit，详细内容我放在原文链接里。
 
-🔗 [原文](https://www.reddit.com/r/singapore/comments/1s8o68a/singapore_beat_bangladesh_10_finishing_off_their/)
-
----
-
-## 4. Hin Leong founder O.K. Lim
-
-�️ **口播：**老板，快看：Hin Leong founder O.K. Lim, wh，详细内容我放在原文链接里。
-
-🔗 [原文](https://www.straitstimes.com/singapore/courts-crime/hin-leong-founder-o-k-lim-who-was-to-start-prison-sentence-on-april-1-has-bail-extended-by-a-day)
+🔗 [原文](https://istyle.ltn.com.tw/article/39549)
 
 ---
 
-## 5. Committee of Supply 2026: 
+## 3. Over 2 Million Employees t
 
-�️ **口播：**老板，快看：Committee of Supply 2026: Exte，详细内容我放在原文链接里。
+🎙️ **口播：**老板，快看：Over 2 Million Employees to Be，详细内容我放在原文链接里。
 
-🔗 [原文](https://www.iras.gov.sg/news-events/newsroom/committee-of-supply-2026--extension-of-gst-invoicenow-requirement-to-all-gst-registered-businesses-by-april-2031)
-
----
-
-## 6. Government Will Grant One-
-
-�️ **口播：**老板，快看：Government Will Grant One-Off ，详细内容我放在原文链接里。
-
-🔗 [原文](https://www.iras.gov.sg/news-events/newsroom/government-will-grant-one-off-property-tax-rebate-for-all-owner-occupied-residential-properties-in-2026)
+🔗 [原文](https://www.iras.gov.sg/news-events/newsroom/over-2-million-employees-to-benefit-from-pre-filled-tax-returns--120-000-ais-employers-to-submit-employees--employment-income-data-by-1-mar-to-avoid-penalties)
 
 ---
 
-## 7. Singapore chemical logisti
+## 4. New IP riders kick in with
 
-�️ **口播：**老板，快看：Singapore chemical logistics g，详细内容我放在原文链接里。
+🎙️ **口播：**老板，快看：New IP riders kick in with low，详细内容我放在原文链接里。
 
-🔗 [原文](https://www.businesstimes.com.sg/companies-markets/energy-commodities/singapore-chemical-logistics-growth-still-promising-despite-middle-east-war-katoen-natie-execs)
-
----
-
-## 8. 11 offences detected, 5 AM
-
-�️ **口播：**老板，快看：11 offences detected, 5 AMDs i，详细内容我放在原文链接里。
-
-🔗 [原文](https://mustsharenews.com/punggol-npc-lta-amd/)
+🔗 [原文](https://www.businesstimes.com.sg/singapore/new-ip-riders-kick-lower-premiums-higher-out-pocket-costs)
 
 ---
 
-## 9. 「鄭習會」將在特朗普訪華前登場   背後的美中台角力
+## 5. First HDB resale price dro
 
-�️ **口播：**老板，快看：「鄭習會」將在特朗普訪華前登場   背後的美中台角力與國民黨，详细内容我放在原文链接里。
+🎙️ **口播：**老板，快看：First HDB resale price drop in，详细内容我放在原文链接里。
 
-🔗 [原文](https://www.bbc.com/zhongwen/articles/c5yvg1dljgeo/trad?at_medium=RSS&at_campaign=rss)
-
----
-
-## 10. 美軍會怎樣嘗試攻佔伊朗的石油樞紐哈爾克島？
-
-�️ **口播：**老板，快看：美軍會怎樣嘗試攻佔伊朗的石油樞紐哈爾克島？，详细内容我放在原文链接里。
-
-🔗 [原文](https://www.bbc.com/zhongwen/articles/c74vnkn89q1o/trad?at_medium=RSS&at_campaign=rss)
+🔗 [原文](https://mustsharenews.com/hdb-resale-prices-decline/)
 
 ---
 
-## 11. Chinese robotaxis stall in
+## 6. Microsoft plans over US$1
 
-�️ **口播：**老板，快看：Chinese robotaxis stall in app，详细内容我放在原文链接里。
+🎙️ **口播：**老板，快看：Microsoft plans over US$1 bill，详细内容我放在原文链接里。
+
+🔗 [原文](https://www.channelnewsasia.com/asia/microsoft-thailand-1-billion-investment-cloud-ai-data-6028496)
+
+---
+
+## 7. 61-year-old woman found de
+
+🎙️ **口播：**老板，快看：61-year-old woman found dead a，详细内容我放在原文链接里。
+
+🔗 [原文](https://mustsharenews.com/found-dead-yishun/)
+
+---
+
+## 8. Announcements
+
+🎙️ **口播：**老板，快看：Announcements，详细内容我放在原文链接里。
+
+🔗 [原文](https://www.iras.gov.sg/news-events/announcements)
+
+---
+
+## 9. Chinese robotaxis stall in
+
+🎙️ **口播：**老板，快看：Chinese robotaxis stall in app，详细内容我放在原文链接里。
 
 🔗 [原文](https://www.channelnewsasia.com/east-asia/china-robotaxis-baidu-apollo-go-outage-stranding-passengers-6030391)
 
 ---
 
-## 12. Two Men Charged for Perpet
+## 10. Island-Wide Raids at Over
 
-�️ **口播：**老板，快看：Two Men Charged for Perpetrati，详细内容我放在原文链接里。
+🎙️ **口播：**老板，快看：Island-Wide Raids at Over 20 L，详细内容我放在原文链接里。
 
-🔗 [原文](https://www.iras.gov.sg/news-events/newsroom/two-men-charged-for-perpetrating-a--181-million-gst-missing-trader-fraud)
-
----
-
-## 13. 健康網》單日連切3大腸瘜肉 醫：3食物不敢再吃
-
-�️ **口播：**老板，快看：健康網》單日連切3大腸瘜肉 醫：3食物不敢再吃，详细内容我放在原文链接里。
-
-🔗 [原文](https://health.ltn.com.tw/article/breakingnews/5390008)
+🔗 [原文](https://www.iras.gov.sg/news-events/newsroom/island-wide-raids-at-over-20-locations-in-iras-crackdown-on-gst-refund-fraud)
 
 ---
 
-## 14. 特朗普稱很快且無需協議結束伊朗戰事，美方地面部隊仍在
+## 11. IRAS Annual Report FY2024/
 
-�️ **口播：**老板，快看：特朗普稱很快且無需協議結束伊朗戰事，美方地面部隊仍在集結，详细内容我放在原文链接里。
+🎙️ **口播：**老板，快看：IRAS Annual Report FY2024/25，详细内容我放在原文链接里。
 
-🔗 [原文](https://www.bbc.com/zhongwen/articles/cdxdkqknqwqo/trad?at_medium=RSS&at_campaign=rss)
-
----
-
-## 15. 台電汐止訓練發生意外！資深員工慘遭132公斤礙子砸頭
-
-�️ **口播：**老板，快看：台電汐止訓練發生意外！資深員工慘遭132公斤礙子砸頭 口鼻滲，详细内容我放在原文链接里。
-
-🔗 [原文](https://news.ltn.com.tw/news/society/breakingnews/5390244)
+🔗 [原文](https://www.iras.gov.sg/news-events/newsroom/iras-annual-report-fy2024-25)
 
 ---
 
-## 16. Asian stocks rally after T
+## 12. 登月後再登火星？NASA 任務為何至關重要？
 
-�️ **口播：**老板，快看：Asian stocks rally after Trump，详细内容我放在原文链接里。
+🎙️ **口播：**老板，快看：登月後再登火星？NASA 任務為何至關重要？，详细内容我放在原文链接里。
 
-🔗 [原文](https://www.channelnewsasia.com/asia/asian-markets-trump-war-iran-may-be-over-two-weeks-6029831)
-
----
-
-## 17. 威武！850億元機構淨買盤湧入  韓國Kospi狂飆
-
-�️ **口播：**老板，快看：威武！850億元機構淨買盤湧入  韓國Kospi狂飆8.44，详细内容我放在原文链接里。
-
-🔗 [原文](https://ec.ltn.com.tw/article/breakingnews/5390245)
+🔗 [原文](https://www.bbc.com/zhongwen/articles/c4gjr19w2q5o/trad?at_medium=RSS&at_campaign=rss)
 
 ---
 
-## 18. 怕AI生成「假台南」南市首創打造專屬文化AI模型
+## 13. Tax Agreement between the
 
-�️ **口播：**老板，快看：怕AI生成「假台南」南市首創打造專屬文化AI模型，详细内容我放在原文链接里。
+🎙️ **口播：**老板，快看：Tax Agreement between the Sing，详细内容我放在原文链接里。
 
-🔗 [原文](https://news.ltn.com.tw/news/art/breakingnews/5390059)
-
----
-
-## 19. 21-year-old motorcyclist d
-
-�️ **口播：**老板，快看：21-year-old motorcyclist dies ，详细内容我放在原文链接里。
-
-🔗 [原文](https://mustsharenews.com/aye-accident-congestion/)
+🔗 [原文](https://www.iras.gov.sg/news-events/newsroom/tax-agreement-between-the-singapore-trade-office-in-taipei-and-the-taipei-representative-office-in-singapore-enters-into-force)
 
 ---
 
-## 20. 檢察官說話時被拍到拍手、笑出來掀熱議 柯文哲律師回應
+## 14. Serial voyeur finds job as
 
-�️ **口播：**老板，快看：檢察官說話時被拍到拍手、笑出來掀熱議 柯文哲律師回應了，详细内容我放在原文链接里。
+🎙️ **口播：**老板，快看：Serial voyeur finds job as stu，详细内容我放在原文链接里。
 
-🔗 [原文](https://news.ltn.com.tw/news/politics/breakingnews/5390236)
+🔗 [原文](https://www.reddit.com/r/singapore/comments/1s9fo7y/serial_voyeur_finds_job_as_student_care_teacher/)
+
+---
+
+## 15. 79-year-old man locks hims
+
+🎙️ **口播：**老板，快看：79-year-old man locks himself ，详细内容我放在原文链接里。
+
+🔗 [原文](https://mustsharenews.com/man-clementi-flat/)
+
+---
+
+## 16. Recommended pay for social
+
+🎙️ **口播：**老板，快看：Recommended pay for social ser，详细内容我放在原文链接里。
+
+🔗 [原文](https://www.straitstimes.com/singapore/pay-guidelines-for-social-service-sector-in-spore-up-by-5-on-average-boosting-salaries-across-roles)
+
+---
+
+## 17. Singapore chemical logisti
+
+🎙️ **口播：**老板，快看：Singapore chemical logistics g，详细内容我放在原文链接里。
+
+🔗 [原文](https://www.businesstimes.com.sg/companies-markets/energy-commodities/singapore-chemical-logistics-growth-still-promising-despite-middle-east-war-katoen-natie-execs)
+
+---
+
+## 18. HDB resale prices dip for
+
+🎙️ **口播：**老板，快看：HDB resale prices dip for firs，详细内容我放在原文链接里。
+
+🔗 [原文](https://www.reddit.com/r/singapore/comments/1s95npf/hdb_resale_prices_dip_for_first_time_in_7_years/)
+
+---
+
+## 19. Mother and son first to be
+
+🎙️ **口播：**老板，快看：Mother and son first to be con，详细内容我放在原文链接里。
+
+🔗 [原文](https://www.iras.gov.sg/news-events/newsroom/mother-and-son-first-to-be-convicted-of-giving-false-and-misleading-information-to-iras-during-stamp-duty-audit)
+
+---
+
+## 20. Malaysian driver in fatal
+
+🎙️ **口播：**老板，快看：Malaysian driver in fatal Klan，详细内容我放在原文链接里。
+
+🔗 [原文](https://www.channelnewsasia.com/asia/malaysia-driver-fatal-klang-selangor-crash-murder-charge-motorcyclist-amirul-hafiz-omar-6030721)
 
 ---
 

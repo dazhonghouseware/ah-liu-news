@@ -2,23 +2,11 @@
 
 ---
 
-## 1. 「綠色和平」指控石油公司 趁中東衝突大發戰爭財
+## 1. 3 crypto employees arreste
 
-「綠色和平」指控石油公司 趁中東衝突大發戰爭財
+3 crypto employees arrested in S’pore, extradited to US to face charges over fraud schemes
 
-根據環保團體「綠色和平組織」（Greenpeace）1日發布的1項委託進行的研究，自2月28日中東戰爭爆發以來，石油公司在歐盟（EU）國家每天賺取超過8000萬歐元（約台...…
-
-以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
-
-#新加坡热点 #每日新闻 #新加坡生活
-
----
-
-## 2. OCBC breaches S$100 billio
-
-OCBC breaches S$100 billion market cap as shares hit record high
-
-DBS is the only other Singapore stock in the exclusive club
+[SINGAPORE] Three individuals, including two chief executives, were arrested and extradited from Singapore to appear in court in Oakland, California, over cryptocurrency...
 
 以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
 
@@ -26,23 +14,11 @@ DBS is the only other Singapore stock in the exclusive club
 
 ---
 
-## 3. Singapore beat Bangladesh 
+## 2. 錶盤上12種鑽石切割點亮時間！Tiffany Ete
 
-Singapore beat Bangladesh 1-0, finishing off their undefeated run in the Asian Cup Qualifiers
+錶盤上12種鑽石切割點亮時間！Tiffany Eternity砂金石新錶譜寫浪漫時計
 
-⬆ 761 votes · 💬 91 comments
-
-以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
-
-#新加坡热点 #每日新闻 #新加坡生活
-
----
-
-## 4. Hin Leong founder O.K. Lim
-
-Hin Leong founder O.K. Lim, who was to start prison sentence on April 1, has bail extended by a day
-
-The 84-year-old will have to surrender at the State Courts by 3pm on April 2.
+蒂芙尼（Tiffany & Co.）於近日揭幕Eternity系列腕錶全新作品，大膽結合深邃的砂金石錶盤，透過如繁星般閃耀的礦物底色，將品牌引以為傲的鑽石切割時標襯托得更加立體。這款作品不僅是時計，更是一場關於精密鑲嵌與美學設計的華麗展演，完美傳承品…
 
 以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
 
@@ -50,9 +26,9 @@ The 84-year-old will have to surrender at the State Courts by 3pm on April 2.
 
 ---
 
-## 5. Committee of Supply 2026: 
+## 3. Over 2 Million Employees t
 
-Committee of Supply 2026: Extension of GST InvoiceNow Requirement to All GST-registered Businesses by April 2031
+Over 2 Million Employees to Benefit from Pre-filled Tax Returns; 120,000 AIS Employers to Submit Employees’ Employment Income Data by 1 Mar to Avoid Penalties
 
 这是一条今日重点新闻，建议查看原文了解完整背景与细节。
 
@@ -62,23 +38,11 @@ Committee of Supply 2026: Extension of GST InvoiceNow Requirement to All GST-reg
 
 ---
 
-## 6. Government Will Grant One-
+## 4. New IP riders kick in with
 
-Government Will Grant One-Off Property Tax Rebate for All Owner-Occupied Residential Properties in 2026
+New IP riders kick in with lower premiums, but higher out-of-pocket costs
 
-这是一条今日重点新闻，建议查看原文了解完整背景与细节。
-
-以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
-
-#新加坡热点 #每日新闻 #新加坡生活
-
----
-
-## 7. Singapore chemical logisti
-
-Singapore chemical logistics growth still promising despite Middle East war: Katoen Natie execs
-
-Specialty chemical producers are scaling up their plants on Jurong Island, driving demand for warehouse storage
+Insurers are adjusting product features in response to the new framework
 
 以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
 
@@ -86,23 +50,11 @@ Specialty chemical producers are scaling up their plants on Jurong Island, drivi
 
 ---
 
-## 8. 11 offences detected, 5 AM
+## 5. First HDB resale price dro
 
-11 offences detected, 5 AMDs impounded after Punggol NPC and LTA conduct 2-day joint enforcement operation
+First HDB resale price drop in 7 years draws mixed reactions, some hope for bigger correction
 
-Those caught riding illegal AMDs can face up to six months’ jail, a fine of up to S$10,000, or both.The post11 offences detected, 5 AMDs impounded after Punggol NPC and LTA conduct 2-day joint enforce
-
-以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
-
-#新加坡热点 #每日新闻 #新加坡生活
-
----
-
-## 9. 「鄭習會」將在特朗普訪華前登場   背後的美中台角力
-
-「鄭習會」將在特朗普訪華前登場   背後的美中台角力與國民黨路線之爭
-
-「鄭習會」背後仍折射出國民黨內部乃至台灣的「親美」或「親中」路線之爭。這趟訪問不只是兩岸互動，更被視為對國民黨2026年地方選舉，甚至未來大選的一次提前測試。
+HDB also announced that around 6,900 BTO flats will be offered in the upcoming June sales exercise.The postFirst HDB resale price drop in 7 years draws mixed reactions, some hope for bigger correction
 
 以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
 
@@ -110,11 +62,11 @@ Those caught riding illegal AMDs can face up to six months’ jail, a fine of up
 
 ---
 
-## 10. 美軍會怎樣嘗試攻佔伊朗的石油樞紐哈爾克島？
+## 6. Microsoft plans over US$1
 
-美軍會怎樣嘗試攻佔伊朗的石油樞紐哈爾克島？
+Microsoft plans over US$1 billion cloud, AI investment in Thailand
 
-一個可比擬的情境是位於黑海的蛇島。俄羅斯在2022年2月全面入侵烏克蘭初期奪取該島，但最終在烏克蘭本土持續騷擾性火力攻擊下被迫撤離。
+"Our ambition is for Thailand to grow as a regional driving force in Asia's digital and AI economy," Thai Prime Minister Anutin Charnvirakul said.
 
 以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
 
@@ -122,7 +74,31 @@ Those caught riding illegal AMDs can face up to six months’ jail, a fine of up
 
 ---
 
-## 11. Chinese robotaxis stall in
+## 7. 61-year-old woman found de
+
+61-year-old woman found dead at Yishun block, case classified as unnatural death
+
+Now-deleted videos posted on Facebook showed the motionless woman sprawled at the foot of the block.The post61-year-old woman found dead at Yishun block, case classified as unnatural deathappeared fir
+
+以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
+
+#新加坡热点 #每日新闻 #新加坡生活
+
+---
+
+## 8. Announcements
+
+Announcements
+
+Announcements。这条新闻与新加坡读者关系密切，建议关注后续官方更新与政策变化。
+
+目前公开信息仍在更新中，建议以原文与官方通报为准。
+
+#新加坡热点 #每日新闻 #新加坡生活
+
+---
+
+## 9. Chinese robotaxis stall in
 
 Chinese robotaxis stall in apparent 'malfunction': Police
 
@@ -134,9 +110,117 @@ Preliminary findings suggested that the cause was system malfunction - but did n
 
 ---
 
-## 12. Two Men Charged for Perpet
+## 10. Island-Wide Raids at Over
 
-Two Men Charged for Perpetrating a $181 Million GST Missing Trader Fraud
+Island-Wide Raids at Over
+
+Island-Wide Raids at Over。这条新闻与新加坡读者关系密切，建议关注后续官方更新与政策变化。
+
+目前公开信息仍在更新中，建议以原文与官方通报为准。
+
+#新加坡热点 #每日新闻 #新加坡生活
+
+---
+
+## 11. IRAS Annual Report FY2024/
+
+IRAS Annual Report FY2024/
+
+IRAS Annual Report FY2024/。这条新闻与新加坡读者关系密切，建议关注后续官方更新与政策变化。
+
+目前公开信息仍在更新中，建议以原文与官方通报为准。
+
+#新加坡热点 #每日新闻 #新加坡生活
+
+---
+
+## 12. 登月後再登火星？NASA 任務為何至關重要？
+
+登月後再登火星？NASA 任務為何至關重要？
+
+從與中國的競賽到月球探索，美國正在投入時間、精力和金錢，朝著月球甚至更遠的地方進發。
+
+目前公开信息仍在更新中，建议以原文与官方通报为准。
+
+#新加坡热点 #每日新闻 #新加坡生活
+
+---
+
+## 13. Tax Agreement between the
+
+Tax Agreement between the Singapore Trade Office in Taipei and the Taipei Representative Office in Singapore Enters into Force
+
+这是一条今日重点新闻，建议查看原文了解完整背景与细节。
+
+以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
+
+#新加坡热点 #每日新闻 #新加坡生活
+
+---
+
+## 14. Serial voyeur finds job as
+
+Serial voyeur finds job as student care teacher, takes videos of boys using the toilet
+
+⬆ 43 votes · 💬 24 comments
+
+以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
+
+#新加坡热点 #每日新闻 #新加坡生活
+
+---
+
+## 15. 79-year-old man locks hims
+
+79-year-old man locks himself in Clementi flat, apprehended under Mental Health Act
+
+Officers from the Special Operations Command, Crisis Negotiation Unit and SCDF were activated.The post79-year-old man locks himself in Clementi flat, apprehended under Mental Health Actappeared first
+
+以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
+
+#新加坡热点 #每日新闻 #新加坡生活
+
+---
+
+## 16. Recommended pay for social
+
+Recommended pay for social service jobs in S’pore up by 5% on average
+
+Some roles have larger increments of up to 15 per cent.
+
+以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
+
+#新加坡热点 #每日新闻 #新加坡生活
+
+---
+
+## 17. Singapore chemical logisti
+
+Singapore chemical logistics growth still promising despite Middle East war: Katoen Natie execs
+
+Specialty chemical producers are scaling up their plants on Jurong Island, driving demand for warehouse storage
+
+以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
+
+#新加坡热点 #每日新闻 #新加坡生活
+
+---
+
+## 18. HDB resale prices dip for
+
+HDB resale prices dip for
+
+HDB resale prices dip for。这条新闻与新加坡读者关系密切，建议关注后续官方更新与政策变化。
+
+目前公开信息仍在更新中，建议以原文与官方通报为准。
+
+#新加坡热点 #每日新闻 #新加坡生活
+
+---
+
+## 19. Mother and son first to be
+
+Mother and son first to be convicted of giving false and misleading information to IRAS during Stamp Duty audit
 
 ⚠️ 税务执法
 
@@ -146,95 +230,11 @@ Two Men Charged for Perpetrating a $181 Million GST Missing Trader Fraud
 
 ---
 
-## 13. 健康網》單日連切3大腸瘜肉 醫：3食物不敢再吃
+## 20. Malaysian driver in fatal
 
-健康網》單日連切3大腸瘜肉 醫：3食物不敢再吃
+Malaysian driver in fatal Klang crash charged with murder of motorcyclist
 
-〔健康頻道／綜合報導〕「最近跟大腸巨大瘜肉真的太有緣了，一次就切了3個。」胃腸肝膽科醫師張靖在臉書粉專「張靖醫師 減重專科。靖心靖力 守護胃腸」表示，他在門診接收3名個案，檢查後發現巨大腺瘤（A...…
-
-以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
-
-#新加坡热点 #每日新闻 #新加坡生活
-
----
-
-## 14. 特朗普稱很快且無需協議結束伊朗戰事，美方地面部隊仍在
-
-特朗普稱很快且無需協議結束伊朗戰事，美方地面部隊仍在集結
-
-他還說，如果法國或其他國家想要石油，可以自己去霍爾木茲海峽「各憑本事」，美國將與此毫無關係。
-
-以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
-
-#新加坡热点 #每日新闻 #新加坡生活
-
----
-
-## 15. 台電汐止訓練發生意外！資深員工慘遭132公斤礙子砸頭
-
-台電汐止訓練發生意外！資深員工慘遭132公斤礙子砸頭 口鼻滲血喪命
-
-台灣電力公司台北供電營運處今日上午在汐止地區的電塔基地舉行核心技術訓練，電塔上的礙子突然整個掉落，砸到下方46歲董姓員工。董員頭部受創，口鼻當場滲血倒地，被同事送往基隆長庚醫院...…
-
-以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
-
-#新加坡热点 #每日新闻 #新加坡生活
-
----
-
-## 16. Asian stocks rally after T
-
-Asian stocks rally after Trump says Iran war to end 'very soon'
-
-Crude prices, however, jumped on lingering worries about the closure of the strategic Strait of Hormuz.
-
-以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
-
-#新加坡热点 #每日新闻 #新加坡生活
-
----
-
-## 17. 威武！850億元機構淨買盤湧入  韓國Kospi狂飆
-
-威武！850億元機構淨買盤湧入  韓國Kospi狂飆8.44％
-
-美伊戰爭結束的希望瀰漫市場，鼓舞投資人信心，超過4兆韓元（850億台幣）的機構淨買盤流入，推升韓國綜合股價指數（Kospi）狂飆逾8%，創史上第5大單日漲幅紀錄。在1個月...…
-
-以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
-
-#新加坡热点 #每日新闻 #新加坡生活
-
----
-
-## 18. 怕AI生成「假台南」南市首創打造專屬文化AI模型
-
-怕AI生成「假台南」南市首創打造專屬文化AI模型
-
-生成式AI席捲全球，南市政府也把AI技術用在文化保存上。市長黃偉哲今（1）日宣布推出「台南市文化內容生成平台」，打造全台第1個「文化AI影像生成模型」，透過近萬張台南老照...…
-
-以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
-
-#新加坡热点 #每日新闻 #新加坡生活
-
----
-
-## 19. 21-year-old motorcyclist d
-
-21-year-old motorcyclist dies after accident with 3 cars along AYE, congestion lasts for hours
-
-A motorcycle had been smashed into pieces, with its parts strewn across the AYE, according to footage.The post21-year-old motorcyclist dies after accident with 3 cars along AYE, congestion lasts for h
-
-以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
-
-#新加坡热点 #每日新闻 #新加坡生活
-
----
-
-## 20. 檢察官說話時被拍到拍手、笑出來掀熱議 柯文哲律師回應
-
-檢察官說話時被拍到拍手、笑出來掀熱議 柯文哲律師回應了
-
-民眾黨創黨主席柯文哲涉京華城等弊案，一審遭判刑17年。台北地院昨日首開先例釋出該案法庭公播畫面，有網友發現，檢查官廖彥鈞正氣凜然的發表論告之時，竟然連柯文哲的辯護律師鄭深元也「忘...…
+Saktygaanapathy Ravichandran was reportedly driving at a high speed and is believed to have overtaken several vehicles before veering into the opposite lane and hitting father-of-three Amirul Hafiz Om
 
 以上内容由系统在无 AI 模式下自动整理，具体请以原文报道为准。
 
